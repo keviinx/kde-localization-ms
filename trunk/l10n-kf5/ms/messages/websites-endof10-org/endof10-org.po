@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-09 11:24+0200\n"
+"PO-Revision-Date: 2025-09-09 12:55+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,19 +35,21 @@ msgstr "/laptop-thumbnail.png"
 
 #: content/_index.md:8
 msgid "Use your old computer but with fresh new software."
-msgstr ""
+msgstr "Gunakan komputer lama anda, tetapi dengan perisian yang baharu."
 
 #: content/_index.md:10
 msgid "Support for Windows 10 ends on October 14, 2025."
-msgstr ""
+msgstr "Sokongan untuk Windows 10 akan tamat pada 10 Oktober 2025."
 
 #: content/_index.md:12
 msgid "Microsoft wants you to buy a new computer."
-msgstr ""
+msgstr "Microsoft mahu anda membeli komputer baharu."
 
 #: content/_index.md:14
 msgid "But what if you could make your current one fast and secure again?"
 msgstr ""
+"Tetapi bagaimana jika anda boleh menjadikan komputer anda pantas dan selamat"
+" semula?"
 
 #: content/_index.md:18
 msgid ""
@@ -55,6 +57,10 @@ msgid ""
 "throw it out. By just installing an up-to-date Linux operating system you "
 "can keep using it for years to come."
 msgstr ""
+"Jika anda membeli komputer anda selepas tahun 2010, kemungkinan besar "
+"tiada sebab untuk membuangnya. Dengan hanya memasang sistem "
+"operasi Linux yang terkini, anda boleh terus menggunakannya untuk "
+"bertahun-tahun lagi."
 
 #: content/_index.md:22
 msgid ""
