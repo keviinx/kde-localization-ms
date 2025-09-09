@@ -1,0 +1,865 @@
+#
+# SPDX-FileCopyrightText: 2025 Keviindran Ramachandran <keviinx@yahoo.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-endof10-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-03 02:08+0000\n"
+"PO-Revision-Date: 2025-09-09 11:24+0200\n"
+"Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
+"Language-Team: C <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: C\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 23.08.5\n"
+
+#: config.yaml:0 content/_index.md:0
+msgid "End of 10"
+msgstr "End of 10"
+
+#: content/_index.md:0
+msgid ""
+"Windows 10 ends in 2025. Donâ€™t buy a new PC â€” revive yours with Linux."
+" It's "
+"fast, secure, and help is available to get you started."
+msgstr ""
+"Windows 10 akan berakhir pada tahun 2025. Jangan beli PC baharu, hidupkan "
+"semula PC anda dengan Linux. Ia pantas, selamat, dan bantuan tersedia untuk "
+"anda bermula."
+
+#: content/_index.md:0
+msgid "/laptop-thumbnail.png"
+msgstr "/laptop-thumbnail.png"
+
+#: content/_index.md:8
+msgid "Use your old computer but with fresh new software."
+msgstr ""
+
+#: content/_index.md:10
+msgid "Support for Windows 10 ends on October 14, 2025."
+msgstr ""
+
+#: content/_index.md:12
+msgid "Microsoft wants you to buy a new computer."
+msgstr ""
+
+#: content/_index.md:14
+msgid "But what if you could make your current one fast and secure again?"
+msgstr ""
+
+#: content/_index.md:18
+msgid ""
+"If you bought your computer after 2010, there's most likely no reason to "
+"throw it out. By just installing an up-to-date Linux operating system you "
+"can keep using it for years to come."
+msgstr ""
+
+#: content/_index.md:22
+msgid ""
+"Installing an operating system may sound difficult, but you don't have to do"
+" it alone. With any luck, there are people in your area ready to help!"
+msgstr ""
+
+#: content/_index.md:28
+msgid "Find someone to help&nbsp;you"
+msgstr ""
+
+#: content/_index.md:32
+msgid "[Install Linux yourself â†’](/install)"
+msgstr ""
+
+#: content/_index.md:36
+msgid ""
+"Would you like to help others keep their computer alive after "
+"Windows&nbsp;10?"
+msgstr ""
+
+#: content/_index.md:40
+msgid "Sign up as repair collective"
+msgstr ""
+
+#: content/_index.md:48
+msgid "**5 Reasons** to upgrade your old computer to Linux"
+msgstr ""
+
+#: content/_index.md:50 content/press/2025-05-28-press-release/index.md:38
+msgid ""
+"**No New Hardware, No Licensing Costs**{{< br >}} A new laptop costs a lot "
+"of money, but several Linux operating systems are available for free. "
+"Software updates are also free, forever. You can of course show your support"
+" with donations!"
+msgstr ""
+
+#: content/_index.md:54 content/press/2025-05-28-press-release/index.md:42
+msgid ""
+"**Enhanced Privacy**{{< br >}} Windows comes with lots of ads and spyware. "
+"This slows down your computer, lets companies spy on you, and increases your"
+" energy bills."
+msgstr ""
+
+#: content/_index.md:57 content/press/2025-05-28-press-release/index.md:45
+msgid ""
+"**Good For The Planet**{{< br >}} Production of a computer accounts for 75+%"
+" of carbon emissions over its lifecycle. Keeping a functioning device longer"
+" is a hugely effective way to reduce emissions. With a Linux operating "
+"system you can use your device longer."
+msgstr ""
+
+#: content/_index.md:61 content/press/2025-05-28-press-release/index.md:49
+msgid ""
+"**Community & Professional Support**{{< br >}} There are local repair cafes "
+"and independent, professional services and computer shops available for "
+"providing you help. You can find support in online forums, too."
+msgstr ""
+
+#: content/_index.md:65 content/press/2025-05-28-press-release/index.md:53
+msgid ""
+"**Better User Control**{{< br >}} Linux grants you the four freedoms of "
+"software. You are free to use, study, share, and improve the program, for as"
+" long as you wish. You are in control of your device."
+msgstr ""
+
+#: content/_index.md:69
+msgid "Supporters"
+msgstr ""
+
+#: content/_index.md:71
+msgid ""
+"These organizations (listed alphabetically) have joined us in support of the"
+" campaign."
+msgstr ""
+
+#: content/_index.md:75
+msgid "Convinced?"
+msgstr ""
+
+#: content/_index.md:77
+msgid ""
+"Then find your closest repair cafe or independent computer shop and enjoy "
+"your brand-new, old computer!"
+msgstr ""
+
+#: content/_index.md:82
+msgid "Repair your old computer"
+msgstr ""
+
+#: content/contribute.md:0
+msgid "Contribute"
+msgstr ""
+
+#: content/contribute.md:0
+msgid "Add a place or event"
+msgstr ""
+
+#: content/contribute.md:9
+msgid ""
+"When can I publish our repair cafÃ© or independent computer shop at "
+"endof10.org?"
+msgstr ""
+
+#: content/contribute.md:11
+msgid "If you offer Linux help, you can add your location right now!"
+msgstr ""
+
+#: content/contribute.md:13
+msgid ""
+"A description of the information we need [for "
+"places](https://invent.kde.org/websites/endof10-org#places) and [for "
+"events](https://invent.kde.org/websites/endof10-org#events) can be found at "
+"the Git repository's README. Send the information by email to endof10 [at] "
+"lists.posteo.de. If you can, help us out by providing that information in "
+"JSON format."
+msgstr ""
+
+#: content/contribute.md:20
+msgid ""
+"If you have the technical know-how, you can also make a [Merge "
+"Request](https://invent.kde.org/websites/endof10-org/-/tree/master/data) "
+"yourself at the End Of 10 website's repository."
+msgstr ""
+
+#: content/contribute.md:24
+msgid ""
+"See the [FAQ](https://endof10.org/faq#i-like-to-help-people-install-linux-"
+"but-i-am-not-a-part-of-any-group-can-i-be-listed-anyway) for why we list "
+"organizations, not individuals."
+msgstr ""
+
+#: content/contribute.md:26
+msgid "How can I get involved with the campaign?"
+msgstr ""
+
+#: content/contribute.md:28
+msgid ""
+"There are many ways to get involved! Contact us so we can coordinate your "
+"efforts with ours."
+msgstr ""
+
+#: content/contribute.md:30
+msgid ""
+"Contact repair cafes and independent computer shops [offering Linux "
+"support](https://endof10.org/faq#is-there-any-way-at-all-i-can-offer-linux-"
+"support-as-an-individual) and put them in touch with us"
+msgstr ""
+
+#: content/contribute.md:31
+msgid ""
+"[Organize an installation event](https://endof10.org/faq#how-do-i-organize-"
+"an-install-party) or [start a Repair Cafe](https://endof10.org/faq#how-do-i-"
+"organize-a-repair-cafe?) and let us know about it"
+msgstr ""
+
+#: content/contribute.md:32
+msgid ""
+"Design materials for new users such as guides, [promotional "
+"materials](https://endof10.org/faq#do-you-have-ads-flyers-posters-jingles-"
+"etc-for-advertising-the-end-of-10-campaign), etc."
+msgstr ""
+
+#: content/contribute.md:33
+msgid ""
+"[Distribute materials](https://endof10.org/faq#can-i-still-help-if-i-do-not-"
+"have-time-to-organize-an-install-event-or-repair-cafe) in cafes, shops, "
+"universities, schools in your area"
+msgstr ""
+
+#: content/contribute.md:34
+msgid ""
+"Boost the campaign's online presence by sharing [our social "
+"media](https://endof10.org/faq#is-the-campaign-active-on-social-media) posts"
+" on your preferred platforms"
+msgstr ""
+
+#: content/contribute.md:35
+msgid "Translate the website (more below), promotional materials, etc."
+msgstr ""
+
+#: content/contribute.md:36
+msgid ""
+"Volunteer with [FOSS communities](https://endof10.org/#supporters) "
+"participating in the campaign (improving documentation, software debugging, "
+"design)"
+msgstr ""
+
+#: content/contribute.md:38
+msgid "\\<your ideas\\>"
+msgstr ""
+
+#: content/contribute.md:40
+msgid "Which communication platforms do the End Of 10 campaign organizers use?"
+msgstr ""
+
+#: content/contribute.md:42
+msgid ""
+"Write us at one of these public channels, introduce yourself, and let us "
+"know how you'd like to get involved:"
+msgstr ""
+
+#: content/contribute.md:45
+msgid "Matrix: https://matrix.to/#/#endof10:kde.org"
+msgstr ""
+
+#: content/contribute.md:46
+msgid "Mailing list: https://lists.posteo.de/listinfo/endof10"
+msgstr ""
+
+#: content/contribute.md:48
+msgid ""
+"You can also find us on the Fediverse. Campaign hashtags are #EndOf10 and "
+"#EO10Challenges."
+msgstr ""
+
+#: content/contribute.md:50
+msgid "Mastodon: https://floss.social/@endof10"
+msgstr ""
+
+#: content/contribute.md:52
+msgid "How can I help with the translation of the endof10.org website?"
+msgstr ""
+
+#: content/contribute.md:54
+msgid ""
+"The website is hosted by KDE and follows the translation workflow used for "
+"all of KDE's websites."
+msgstr ""
+
+#: content/contribute.md:57
+msgid "Find your language team: https://l10n.kde.org/."
+msgstr ""
+
+#: content/contribute.md:60
+msgid ""
+"Learn about the process: https://community.kde.org/Get_Involved/translation"
+msgstr ""
+
+#: content/events/_index.md:0
+msgid "Upcoming Events"
+msgstr ""
+
+#: content/events/_index.md:0
+msgid "Events"
+msgstr ""
+
+#: content/events/_index.md:12
+msgid ""
+"Here is a list of events where you can get help with Linux. You can also "
+"look for [places](/places/) that provide help more regularly. Please note "
+"that the information here is submitted by the organizers themselves and is "
+"not evaluated by the campaign. Responsibility for a device is with the "
+"owner. For corrections or concerns, please [contact "
+"us](https://endof10.org/contribute/#which-communication-platforms-does-the-"
+"end-of-10-campaign-use)."
+msgstr ""
+
+#: content/events/_index.md:24
+msgid "Add your event"
+msgstr ""
+
+#: content/install.md:0
+msgid "DIY Install Guide"
+msgstr ""
+
+#: content/install.md:0
+msgid "DIY Install"
+msgstr ""
+
+#: content/install.md:9
+msgid ""
+"We recommend getting in-person support for the best experience. However, if "
+"you feel you're technically versed enough to do it yourself, here's a "
+"general guide with the three main steps needed to install Linux."
+msgstr ""
+
+#: content/install.md:14
+msgid ""
+"Once you have picked a distribution, their website will have more detailed "
+"guides you can follow."
+msgstr ""
+
+#: content/install.md:19
+msgid ""
+"Before you start, make sure to back up any important data from the computer "
+"you're about to reinstall!"
+msgstr ""
+
+#: content/install.md:24
+msgid ""
+"**Download a new OS**{{< br >}} Download the operating system you want to "
+"install. Search for Linux distributions for beginners to get some "
+"suggestions."
+msgstr ""
+
+#: content/install.md:27
+msgid ""
+"**Flash to a USB key**{{< br >}} Flash the operating system to a USB stick "
+"using a standard tool, such as Rufus. This will overwrite all data on the "
+"USB stick, so make sure to back up the files you want to keep. {{< "
+"buttonLink href=\"https://rufus.ie/en/\" class=\"btn_small btn_mt\" "
+"target=\"_blank\" >}}Get Rufus{{< /buttonLink >}}"
+msgstr ""
+
+#: content/install.md:32
+msgid ""
+"**Boot and install on your computer**{{< br >}} Boot your computer from your"
+" USB stick. You will need to know the correct keyboard combination "
+"beforehand. At this point you will overwrite all data on the computer, so "
+"have a back up of the files you want to keep. Follow the instructions, and "
+"voilÃ ! Welcome to your new, old computer!"
+msgstr ""
+
+#: content/places/_index.md:0
+msgid "Find Linux Support"
+msgstr ""
+
+#: content/places/_index.md:0
+msgid "Places"
+msgstr ""
+
+#: content/places/_index.md:12
+msgid ""
+"Here is a list of repair cafes, independent shops, organizations, groups, "
+"and collectives where you can get help with Linux on a regular basis. Please"
+" note that the information here is submitted by the organizations themselves"
+" and is not evaluated by the campaign. Responsibility for a device is with "
+"the owner. For corrections or concerns, please [contact "
+"us](https://endof10.org/contribute/#which-communication-platforms-does-the-"
+"end-of-10-campaign-use)."
+msgstr ""
+
+#: content/places/_index.md:22
+msgid "Add your repair collective or other place"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:0
+msgid "The end (of Windows 10) is nigh!"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:6
+msgid ""
+"*Today we're launching \"End Of 10\" ([endof10.org](https://endof10.org/)) "
+"and bringing Linux to Windows 10 users!*"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:8
+msgid ""
+"On 14 October 2025, Microsoft will end support for Windows 10. Microsoft "
+"will no longer provide updates for the system and this will turn an "
+"estimated 200 to 400 million laptops and computers worldwide into security "
+"risks and heavily polluting e-waste."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:10
+msgid "Yours may be one of them."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:12
+msgid "<!--more-->\n"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:14
+msgid ""
+"But what if you could make your current computer fast and secure again so "
+"you can continue to use it? There is an alternative to Windows, one that is "
+"free, receives regular updates and works on nearly all devices, from most "
+"smartphones and routers, to supercomputers that predict the weather and "
+"robots on Mars."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:16
+msgid ""
+"Yes, it's Linux. Linux is extremely flexible and adaptable, and it can work "
+"for you too. Linux can run smoothly on your latest laptop and on a machine "
+"from 10-20 years ago."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:18
+msgid ""
+"The cheapest and most environmentally-friendly computer is the one you "
+"already own."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:20
+msgid ""
+"Installing a new operating system may sound difficult, but the community "
+"behind the \"End Of 10\" is here to help! In towns and cities around the "
+"globe, there are people and places ready to lend you a hand or even install "
+"Linux for you. Many more helper groups get added every day."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:22
+msgid "Find help near you at our website:"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:24
+msgid "https://endof10.org/"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:26
+msgid "Why can't I just migrate my current machine to Windows 11?"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:28
+msgid ""
+"Because there is a good chance it won't meet the system requirements for "
+"Windows 11. There are several reasons for this, but one of the most "
+"questionable is that many devices are being rejected for not having a modern"
+" security module. From a technical standpoint, thatâ€™s hard to justify."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:30
+msgid ""
+"Ironically, it just so happens that 14 October is also \"[International "
+"E-Waste Day](https://weee-forum.org/iewd-about/)\". Shortly after follows "
+"\"[International Repair Day](https://openrepair.org/international-repair-"
+"day/)\" on 18 October. You can't make these things up!"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:32
+msgid ""
+"But Microsoft really wants Windows 10 users to buy new hardware. In fact, "
+"the company has [pushed full-screen "
+"notifications](https://arstechnica.com/gadgets/2024/11/microsoft-pushes-"
+"full-screen-ads-for-copilot-pcs-on-windows-10-users/) onto users' screens "
+"encouraging them to do just that â€” even for computers that are able to "
+"upgrade to Windows 11. This means manufacturing and transporting hundreds of"
+" millions of new devices, and this is perhaps the biggest waste of all. "
+"Hardware production alone consumes copious amounts of energy and has a "
+"disproportionate carbon footprint, all of which is for absolutely nothing "
+"when a working device lands in the bin."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:34
+msgid ""
+"On the other hand, when you choose Linux, you get everything you could ever "
+"want for daily use, and the same machine can be working for decades. Whether"
+" you need to work, run a company, stay connected, or relax, the software "
+"shipped with Linux is often beautiful, blazing fast, easy to use, and always"
+" under your control. Most concerns about Linux are now outdated or unfounded"
+" and your system will remain secure well beyond the end of Windows 10 date "
+"at no cost."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:36
+msgid "The End Of 10 campaign has identified 5 reasons to upgrade to Linux:"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:57
+msgid ""
+"If you're a gamer, you might be wondering: Can I still play my games on "
+"Linux? Yes, you can, and it has never been easier! Thousands of popular AAA "
+"games now run seamlessly on Linux and, in many cases, performance is equal "
+"to or even better than on Windows, especially on older hardware."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:59
+msgid ""
+"There is a growing list of Free & Open Source Software and repair "
+"organizations supporting the campaign, including:"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:61
+msgid "anstiftung"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:62
+msgid "Associazione LibreItalia"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:63
+msgid "Computertruhe e.V."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:64
+msgid "Debian"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:65
+msgid "/e/ Foundation"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:66
+msgid "EU OS"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:67
+msgid "FOSS United Foundation"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:68
+msgid "Free Software Foundation Europe"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:69
+msgid "GNOME Foundation"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:70
+msgid "iFixit"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:71
+msgid "Italian Linux Society"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:72
+msgid "KDE e.V."
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:73
+msgid "KDE EspaÃ±a"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:74
+msgid "Kubuntu Focus"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:75
+msgid "Nextcloud"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:76
+msgid "openSUSE"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:77
+msgid "Open Source Initiative"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:78
+msgid "Repair Cafe International"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:79
+msgid "Right To Repair Europe"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:80
+msgid "Runder Tisch Reparatur"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:81
+msgid "Software Freedom Conservancy"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:82
+msgid "The Document Foundation"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:83
+msgid "Zorin OS"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:85
+msgid ""
+"The End Of 10 campaign started in November 2024 at the South Tyrol Free "
+"Software Conference and has been attracting many new contributors since. "
+"This campaign is made possible by the enthusiastic contributions of a "
+"dedicated team. Learn more about the team at:"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:87
+msgid "https://endof10.org/team/"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:89
+msgid ""
+"And what if you already purchased a new computer with Windows pre-installed "
+"but want to install Linux on it instead? If you prefer using Linux or "
+"another OS, you still pay for Windows, even if you donâ€™t use it. Thatâ€™s "
+"unfair and often non-transparent. Refund4Freedom is an initiative from the "
+"Free Software Foundation Europe that defends consumers' right to choose "
+"their operating system and get refunds for unused pre-installed software â€” "
+"especially Microsoft Windows â€” on new computers. The Refund4Freedom campaign"
+" launches 29 May to help users get refunds for software they don't want. The"
+" initiative focuses first on the Italian market, but will be extended to "
+"other locations in the near future. Learn more here:"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:91
+msgid "https://refund4freedom.org/"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:93
+msgid ""
+"Want future hardware to allow you to install any software you want? It's "
+"your hardware, after all! Device Neutrality, an initiative also from the "
+"Free Software Foundation Europe, aims to enable end-users to bypass "
+"gatekeepers to have a non-discriminatory use of software, including Free & "
+"Open Source Software, on their devices. Learn more here:"
+msgstr ""
+
+#: content/press/2025-05-28-press-release/index.md:95
+msgid "https://fsfe.org/activities/deviceneutrality/index"
+msgstr ""
+
+#: content/press/_index.md:0
+msgid "Press"
+msgstr ""
+
+#: content/press/_index.md:0
+msgid "Press releases about the End of 10 campaign"
+msgstr ""
+
+#: content/team.md:0
+msgid "Team behind End of 10"
+msgstr ""
+
+#: content/team.md:0
+msgid "Team"
+msgstr ""
+
+#: content/team.md:9
+msgid ""
+"This campaign has been made possible by the enthusiastic contributions of "
+"the following people (listed in alphabetical order by last name):"
+msgstr ""
+
+#: content/team.md:11
+msgid "Ã˜jvind Fritjof Arnfred (Danish Translation)"
+msgstr ""
+
+#: content/team.md:12
+msgid "Albert Astals Cid (Translation)"
+msgstr ""
+
+#: content/team.md:13
+msgid "Tobias Bernard (GNOME Design Team)"
+msgstr ""
+
+#: content/team.md:14
+msgid "Xavier Besnard (French Translation)"
+msgstr ""
+
+#: content/team.md:15
+msgid "Joseph P. De Veaugh-Geiss (KDE Eco)"
+msgstr ""
+
+#: content/team.md:16
+msgid "Tobias Diekershoff (Outreach Events)"
+msgstr ""
+
+#: content/team.md:17
+msgid "Nico DÃ¼sing (Web Development)"
+msgstr ""
+
+#: content/team.md:18
+msgid "Finnjan Hofmann (Places/Events)"
+msgstr ""
+
+#: content/team.md:19
+msgid "MatjaÅ¾ Jeran (Slovenian Translation)"
+msgstr ""
+
+#: content/team.md:20
+msgid "Jannick Kremer (German Translation)"
+msgstr ""
+
+#: content/team.md:21
+msgid "Bettina Louis (Outreach, Events, Lifelong learning)"
+msgstr ""
+
+#: content/team.md:22
+msgid "Harald Reingruber (Repair Cafe and FOSS Supporter)"
+msgstr ""
+
+#: content/team.md:23
+msgid "Bernard Sadaka (Outreach)"
+msgstr ""
+
+#: content/team.md:24
+msgid "Gernot Schiller (Campaign Support)"
+msgstr ""
+
+#: content/team.md:25
+msgid "Carl Schwan (Web Development)"
+msgstr ""
+
+#: content/team.md:26
+msgid "Carolina Silva Rode (Outreach Latin America)"
+msgstr ""
+
+#: content/team.md:27
+msgid "Nicole Teale (KDE's Opt Green)"
+msgstr ""
+
+#: content/team.md:28
+msgid "Geoffrey Teale (Website)"
+msgstr ""
+
+#: content/team.md:29
+msgid "Gerardo Zamudio (Outreach)"
+msgstr ""
+
+#: content/team.md:30
+msgid "KDE Translation Teams"
+msgstr ""
+
+#: content/team.md:31
+msgid "*and many more!*"
+msgstr ""
+
+#: content/team.md:33
+msgid ""
+"Have you contributed to the project but your name is missing from this page?"
+" Contact the End Of 10 team, include a link to confirm your contributions, "
+"and we will update it as soon as we can!"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Languages"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Website"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Telephone"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Email"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "costs"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "offline"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "online"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "online or offline"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "opening hours: "
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "The event starts at {{ . }}."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "The event ends at {{ . }}."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Load Map"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Hide Map"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"This map is provided by OpenStreetMap, see the [Privacy "
+"Policy](https://osmfoundation.org/wiki/Privacy_Policy) of their server."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "End of 10 website content"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "is licensed under"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+" Thanks to KDE for supporting the project by hosting the website and "
+"providing the infrastructure. You can contact the [KDE "
+"Webmasters](mailto:kde-www@kde.org) (public mailing list) or see the "
+"[Privacy Policy](https://kde.org/privacypolicy/) and [Legal "
+"Notices](https://kde.org/community/whatiskde/impressum/) for more "
+"information."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Searchâ€¦"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Read more"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Publication time"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "FRESH NEW<br>SOFTWARE"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "YOUR OLD<br>COMPUTER"
+msgstr ""
+
