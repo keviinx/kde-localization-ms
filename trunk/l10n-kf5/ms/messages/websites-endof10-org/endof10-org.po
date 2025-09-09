@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-09 12:55+0200\n"
+"PO-Revision-Date: 2025-09-09 14:47+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -25,9 +25,9 @@ msgid ""
 " It's "
 "fast, secure, and help is available to get you started."
 msgstr ""
-"Windows 10 akan berakhir pada tahun 2025. Jangan beli PC baharu, hidupkan "
-"semula PC anda dengan Linux. Ia pantas, selamat, dan bantuan tersedia untuk "
-"anda bermula."
+"Windows 10 akan berakhir pada tahun 2025. Jangan beli PC baharu, hidupkan"
+" semula PC anda dengan Linux. Ia pantas, selamat, dan bantuan tersedia untuk"
+" anda bermula."
 
 #: content/_index.md:0
 msgid "/laptop-thumbnail.png"
@@ -57,38 +57,42 @@ msgid ""
 "throw it out. By just installing an up-to-date Linux operating system you "
 "can keep using it for years to come."
 msgstr ""
-"Jika anda membeli komputer anda selepas tahun 2010, kemungkinan besar "
-"tiada sebab untuk membuangnya. Dengan hanya memasang sistem "
-"operasi Linux yang terkini, anda boleh terus menggunakannya untuk "
-"bertahun-tahun lagi."
+"Jika anda membeli komputer anda selepas tahun 2010, kemungkinan besar tiada"
+" sebab untuk membuangnya. Dengan hanya memasang sistem operasi Linux yang"
+" terkini, anda boleh terus menggunakannya untuk bertahun-tahun lagi."
 
 #: content/_index.md:22
 msgid ""
 "Installing an operating system may sound difficult, but you don't have to do"
 " it alone. With any luck, there are people in your area ready to help!"
 msgstr ""
+"Memasang sistem operasi munkin kedengaran sukar, tetapi anda tidak perlu"
+" melakukannya seorang diri. Jika bernasib baik, ada orang di kawasan anda"
+" yang bersedia untuk membantu!"
 
 #: content/_index.md:28
 msgid "Find someone to help&nbsp;you"
-msgstr ""
+msgstr "Cari seseorang untuk membantu anda"
 
 #: content/_index.md:32
 msgid "[Install Linux yourself â†’](/install)"
-msgstr ""
+msgstr "[Pasang Linux sendiri â†’](/install)"
 
 #: content/_index.md:36
 msgid ""
 "Would you like to help others keep their computer alive after "
 "Windows&nbsp;10?"
 msgstr ""
+"Mahukah anda membantu orang lain menyelamatkan komputer mereka selepas"
+" Windows 10?"
 
 #: content/_index.md:40
 msgid "Sign up as repair collective"
-msgstr ""
+msgstr "Daftar sebagai kolektif pembaikan"
 
 #: content/_index.md:48
 msgid "**5 Reasons** to upgrade your old computer to Linux"
-msgstr ""
+msgstr "**5 Sebab** untuk menaik taraf komputer lama anda kepada Linux"
 
 #: content/_index.md:50 content/press/2025-05-28-press-release/index.md:38
 msgid ""
@@ -97,6 +101,10 @@ msgid ""
 "Software updates are also free, forever. You can of course show your support"
 " with donations!"
 msgstr ""
+"**Tanpa Perkakasan Baharu, Tanpa Kos Pelesenan**{{< br >}} Komputer riba"
+" baharu berharga mahal, tetapi beberapa sistem operasi Linux tersedia secara"
+" percuma. Kemas kini perisian juga percuma, selama-lamanya. Sudah tentu, anda"
+" boleh menunjukkan sokongan anda melalui sumbangan derma!"
 
 #: content/_index.md:54 content/press/2025-05-28-press-release/index.md:42
 msgid ""
@@ -104,6 +112,9 @@ msgid ""
 "This slows down your computer, lets companies spy on you, and increases your"
 " energy bills."
 msgstr ""
+"**Privasi Dipertingkat**{{< br >}} Windows datang dengan banyak iklan dan"
+" perisian intip. Hal ini memperlahankan komputer anda, membenarkan"
+" syarikat-syarikat mengintip anda, dan meningkatkan bil tenaga anda."
 
 #: content/_index.md:57 content/press/2025-05-28-press-release/index.md:45
 msgid ""
