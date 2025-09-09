@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-09 15:52+0200\n"
+"PO-Revision-Date: 2025-09-09 16:53+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -233,16 +233,21 @@ msgid ""
 "but-i-am-not-a-part-of-any-group-can-i-be-listed-anyway) for why we list "
 "organizations, not individuals."
 msgstr ""
+"Lihat [Soalan Lazim (FAQ)](https://endof10.org/faq#i-like-to-help-people-insta"
+"ll-linux-but-i-am-not-a-part-of-any-group-can-i-be-listed-anyway) untuk"
+" mengetahui mengapa kami menyenaraikan organisasi, bukan individu."
 
 #: content/contribute.md:26
 msgid "How can I get involved with the campaign?"
-msgstr ""
+msgstr "Bagaimanakah saya boleh terlibat dengan kempen ini?"
 
 #: content/contribute.md:28
 msgid ""
 "There are many ways to get involved! Contact us so we can coordinate your "
 "efforts with ours."
 msgstr ""
+"Terdapat banyak cara untuk terlibat! Hubungi kami supaya kami boleh"
+" menyelaraskan usaha anda dengan usaha kami."
 
 #: content/contribute.md:30
 msgid ""
@@ -250,6 +255,9 @@ msgid ""
 "support](https://endof10.org/faq#is-there-any-way-at-all-i-can-offer-linux-"
 "support-as-an-individual) and put them in touch with us"
 msgstr ""
+"Hubungi kafe-kafe baik pulih dan kedai-kedai komputer bebas [yang menawarkan"
+" sokongan Linux](https://endof10.org/faq#is-there-any-way-at-all-i-can-offer-l"
+"inux-support-as-an-individual) dan hubungkan mereka dengan kami"
 
 #: content/contribute.md:31
 msgid ""
@@ -257,6 +265,9 @@ msgid ""
 "an-install-party) or [start a Repair Cafe](https://endof10.org/faq#how-do-i-"
 "organize-a-repair-cafe?) and let us know about it"
 msgstr ""
+"[Anjurkan acara pemasangan](https://endof10.org/faq#how-do-i-organize-an-insta"
+"ll-party) atau [mulakan Kafe Baik Pulih](https://endof10.org/faq#how-do-i-orga"
+"nize-a-repair-cafe?) dan maklumkan kepada kami tentangnya"
 
 #: content/contribute.md:32
 msgid ""
@@ -264,6 +275,9 @@ msgid ""
 "materials](https://endof10.org/faq#do-you-have-ads-flyers-posters-jingles-"
 "etc-for-advertising-the-end-of-10-campaign), etc."
 msgstr ""
+"Reka bahan untuk pengguna baharu seperti bantuan, [bahan"
+" promosi](https://endof10.org/faq#do-you-have-ads-flyers-posters-jingles-etc-f"
+"or-advertising-the-end-of-10-campaign), dan lain-lain."
 
 #: content/contribute.md:33
 msgid ""
@@ -271,6 +285,9 @@ msgid ""
 "have-time-to-organize-an-install-event-or-repair-cafe) in cafes, shops, "
 "universities, schools in your area"
 msgstr ""
+"[Edarkan bahan](https://endof10.org/faq#can-i-still-help-if-i-do-not-have-time"
+"-to-organize-an-install-event-or-repair-cafe) di kafe, kedai, universiti,"
+" sekolah di kawasan anda"
 
 #: content/contribute.md:34
 msgid ""
@@ -278,10 +295,14 @@ msgid ""
 "media](https://endof10.org/faq#is-the-campaign-active-on-social-media) posts"
 " on your preferred platforms"
 msgstr ""
+"Tingkatkan kehadiran kempen dalam talian dengan berkongsi siaran [media"
+" sosial kami](https://endof10.org/faq#is-the-campaign-active-on-social-media)"
+" di platform pilihan anda"
 
 #: content/contribute.md:35
 msgid "Translate the website (more below), promotional materials, etc."
 msgstr ""
+"Terjemahkan laman web (lebih lanjut di bawah), bahan promosi, dan lain-lain."
 
 #: content/contribute.md:36
 msgid ""
@@ -289,6 +310,9 @@ msgid ""
 "participating in the campaign (improving documentation, software debugging, "
 "design)"
 msgstr ""
+"Jadi sukarelawan dengan [komuniti FOSS](https://endof10.org/#supporters) yang"
+" menyertai kempen ini (menambah baik dokumentasi, penyahpepijatan perisian,"
+" reka bentuk)"
 
 #: content/contribute.md:38
 msgid "\\<your ideas\\>"
