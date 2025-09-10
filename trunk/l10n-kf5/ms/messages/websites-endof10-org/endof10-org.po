@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-09 22:36+0200\n"
+"PO-Revision-Date: 2025-09-10 21:04+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: Malay\n"
 "Language: ms\n"
@@ -372,14 +372,15 @@ msgstr "Cari pasukan bahasa anda: https://l10n.kde.org/."
 msgid ""
 "Learn about the process: https://community.kde.org/Get_Involved/translation"
 msgstr ""
+"Ketahui tentang prosesnya: https://community.kde.org/Get_Involved/translation"
 
 #: content/events/_index.md:0
 msgid "Upcoming Events"
-msgstr ""
+msgstr "Acara Akan Datang"
 
 #: content/events/_index.md:0
 msgid "Events"
-msgstr ""
+msgstr "Acara"
 
 #: content/events/_index.md:12
 msgid ""
@@ -390,18 +391,25 @@ msgid ""
 "owner. For corrections or concerns, please [contact us](https://endof10.org/"
 "contribute/#which-communication-platforms-does-the-end-of-10-campaign-use)."
 msgstr ""
+"Berikut ialah senarai acara di mana anda boleh mendapatkan bantuan dengan "
+"Linux. Anda juga boleh mencari [tempat](/places/) yang menyediakan bantuan "
+"secara lebih kerap. Sila ambil perhatian bahawa maklumat di sini dihantar "
+"oleh penganjur sendiri dan tidak dinilai oleh kempen. Tanggungjawab untuk "
+"peranti adalah pada pemiliknya. Untuk pembetulan atau sebarang kebimbangan, "
+"sila [hubungi kami](https://endof10.org/contribute/#which-communication-"
+"platforms-does-the-end-of-10-campaign-use)."
 
 #: content/events/_index.md:24
 msgid "Add your event"
-msgstr ""
+msgstr "Tambah acara anda"
 
 #: content/install.md:0
 msgid "DIY Install Guide"
-msgstr ""
+msgstr "Panduan Pasang DIY"
 
 #: content/install.md:0
 msgid "DIY Install"
-msgstr ""
+msgstr "Pasang DIY"
 
 #: content/install.md:9
 msgid ""
@@ -409,18 +417,26 @@ msgid ""
 "you feel you're technically versed enough to do it yourself, here's a "
 "general guide with the three main steps needed to install Linux."
 msgstr ""
+"Kami mengesyorkan mendapatkan sokongan secara bersemuka untuk pengalaman "
+"terbaik. Walau bagaimanapun, jika anda merasakan anda cukup mahir dari segi "
+"teknikal untuk melakukannya sendiri, berikut ialah panduan umum dengan tiga "
+"langkah utama yang diperlukan untuk memasang Linux."
 
 #: content/install.md:14
 msgid ""
 "Once you have picked a distribution, their website will have more detailed "
 "guides you can follow."
 msgstr ""
+"Setelah anda memilih satu distribusi, laman web mereka akan mempunyai "
+"panduan yang lebih terperinci untuk anda ikuti."
 
 #: content/install.md:19
 msgid ""
 "Before you start, make sure to back up any important data from the computer "
 "you're about to reinstall!"
 msgstr ""
+"Sebelum anda mula, pastikan anda membuat sandaran semua data penting "
+"daripada komputer yang akan anda pasang semula!"
 
 #: content/install.md:24
 msgid ""
