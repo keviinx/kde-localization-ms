@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-10 21:04+0200\n"
+"PO-Revision-Date: 2025-09-10 23:58+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: Malay\n"
 "Language: ms\n"
@@ -444,6 +444,9 @@ msgid ""
 "install. Search for Linux distributions for beginners to get some "
 "suggestions."
 msgstr ""
+"**Muat turun OS baharu**{{< br >}} Muat turun sistem pengendalian yang anda "
+"ingin pasang. Cari distribusi Linux untuk pemula untuk mendapatkan beberapa "
+"cadangan."
 
 #: content/install.md:27
 msgid ""
@@ -453,6 +456,11 @@ msgid ""
 "buttonLink href=\"https://rufus.ie/en/\" class=\"btn_small btn_mt\" "
 "target=\"_blank\" >}}Get Rufus{{< /buttonLink >}}"
 msgstr ""
+"**Flash ke pemacu USB**{{< br >}} Flash sistem pengendalian ke pemacu USB "
+"menggunakan alat standard, seperti Rufus. Ini akan menimpka semua data pada "
+"pemacu USB, jadi pastikan anda membuat sandaran fail yang ingin anda simpan. "
+"{{< buttonLink href=\"https://rufus.ie/en/\" class=\"btn_small btn_mt\" "
+"target=\"_blank\" >}}Dapatkan Rufus{{< /buttonLink >}}"
 
 #: content/install.md:32
 msgid ""
@@ -462,14 +470,19 @@ msgid ""
 "have a back up of the files you want to keep. Follow the instructions, and "
 "voilÃ ! Welcome to your new, old computer!"
 msgstr ""
+"**Boot dan pasang pada komputer anda**{{< br >}} Boot komputer anda daripada "
+"pemacu USB. Anda perlu mengetahui kombinasi papan kekunci yang betul "
+"terlebih dahulu. Pada ketika ini anda akan menulis ganti semua data pada "
+"komputer, jadi pastikan anda membuat sandaran fail yang anda ingin simpan. "
+"Ikuti arahan, dan siap! Selamat datang ke komputer lama anda yang baharu!"
 
 #: content/places/_index.md:0
 msgid "Find Linux Support"
-msgstr ""
+msgstr "Cari Sokongan Linux"
 
 #: content/places/_index.md:0
 msgid "Places"
-msgstr ""
+msgstr "Tempat"
 
 #: content/places/_index.md:12
 msgid ""
@@ -481,20 +494,29 @@ msgid ""
 "endof10.org/contribute/#which-communication-platforms-does-the-end-of-10-"
 "campaign-use)."
 msgstr ""
+"Berikut ialah senarai kafe pembaikan, kedai bebas, organisasi, kumpulan dan "
+"kolektif di mana anda boleh mendapatkan bantuan dengan Linux secara tetap. "
+"Sila ambil perhatian bahawa maklumat di sini diserahkan oleh organisasi "
+"sendiri dan tidak dinilai oleh kempen. Tanggungjawab untuk peranti terletak "
+"pada pemiliknya. Untuk pembetulan atau sebarang kebimbangan, sila [hubungi "
+"kami](https://endof10.org/contribute/#which-communication-platforms-does-the-"
+"end-of-10-campaign-use)."
 
 #: content/places/_index.md:22
 msgid "Add your repair collective or other place"
-msgstr ""
+msgstr "Tambah kolektif pembaikan anda atau tempat lain"
 
 #: content/press/2025-05-28-press-release/index.md:0
 msgid "The end (of Windows 10) is nigh!"
-msgstr ""
+msgstr "Penhujung (Windows 10) sudah hampir!"
 
 #: content/press/2025-05-28-press-release/index.md:6
 msgid ""
 "*Today we're launching \"End Of 10\" ([endof10.org](https://endof10.org/)) "
 "and bringing Linux to Windows 10 users!*"
 msgstr ""
+"*Hari ini kami melancarkan \"End Of 10\" ([endof10.org](https://"
+"endof10.org/)) dan membawa Linux kepada pengguna Windows 10!*"
 
 #: content/press/2025-05-28-press-release/index.md:8
 msgid ""
@@ -503,6 +525,11 @@ msgid ""
 "estimated 200 to 400 million laptops and computers worldwide into security "
 "risks and heavily polluting e-waste."
 msgstr ""
+"Pada 14 Oktober 2025, Microsoft akan menamatkan sokongan untuk Windows 10. "
+"Microsoft tidak akan lagi menyediakan kemas kini untuk sistem tersebut dan "
+"ini akan menjadikan dianggarkan 200 hingga 400 juta komputer riba dan "
+"komputer di seluruh dunia sebagai risiko keselamat serta sisa elektronik "
+"yang sangat mencermarkan."
 
 #: content/press/2025-05-28-press-release/index.md:10
 msgid "Yours may be one of them."
