@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-11 21:14+0200\n"
+"PO-Revision-Date: 2025-09-11 23:17+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: Malay\n"
 "Language: ms\n"
@@ -606,6 +606,11 @@ msgid ""
 "questionable is that many devices are being rejected for not having a modern "
 "security module. From a technical standpoint, thatâ€™s hard to justify."
 msgstr ""
+"Kerana terdapat kemungkinan besar ia tidak akan memenuhi keperluan sistem "
+"untuk Windows 11. Terdapat beberapa sebab untuk ini, tetapi salah satu yang "
+"paling dipersoalkan ialah banyak peranti ditolak kerana tidak mempunyai "
+"modul keselamatan moden. Dari sudut teknikal, ia adalah sukar untuk "
+"dibenarkan."
 
 #: content/press/2025-05-28-press-release/index.md:30
 msgid ""
@@ -614,6 +619,10 @@ msgid ""
 "\"[International Repair Day](https://openrepair.org/international-repair-"
 "day/)\" on 18 October. You can't make these things up!"
 msgstr ""
+"Ironinya, kebetulan pada 14 Oktober juga ialah \"[Hari E-Sisa Antarabangsa]"
+"(https://weee-forum.org/iewd-about/)\". Selepas itu menyusul pula \"[Hari "
+"Pembaikan Antarabangsa](https://openrepair.org/international-repair-day/)\" "
+"pada 18 Oktober. Perkara seperti ini memang sukar untuk dipercayai!"
 
 #: content/press/2025-05-28-press-release/index.md:32
 msgid ""
@@ -627,6 +636,16 @@ msgid ""
 "copious amounts of energy and has a disproportionate carbon footprint, all "
 "of which is for absolutely nothing when a working device lands in the bin."
 msgstr ""
+"Tetapi Microsoft benar-benar mahu pengguna Windows 10 membeli perkakasan "
+"baharu. Malah, syarikat ini telah [menolak pemberitahuan skrin penuh]"
+"(https://arstechnica.com/gadgets/2024/11/microsoft-pushes-full-screen-ads-"
+"for-copilot-pcs-on-windows-10-users/) ke skrin pengguna untuk menggalakkan "
+"mereka membuat demikian â€” walaupun untuk komputer yang mampu menaik taraf "
+"ke Windows 11. Ini bermakna pembuatan dan pengangkutan ratusan juta peranti "
+"baru, dan ini mungkin pembaziran terbesar. Pengeluaran perkakasan sahaja "
+"menggunakan sejumlah besar tenaga dan mempunyai jejak karbon yang tidak "
+"seimbang, semuanya sia-sia apabila peranti yang masih berfungsi berakhir di "
+"tong sampah."
 
 #: content/press/2025-05-28-press-release/index.md:34
 msgid ""
@@ -638,10 +657,19 @@ msgid ""
 "and your system will remain secure well beyond the end of Windows 10 date at "
 "no cost."
 msgstr ""
+"Sebaliknya, apabila anda memilih Linux, anda mendapat segala yang anda "
+"perlukan untuk kegunaan harian, dan mesin yang sama boleh berfungsi selama "
+"beberapa dekad.  Sama ada anda perlu bekerja, menjalankan syarikat, kekal "
+"berhubung, atau bersantai, perisian yang disertakan denfan Linux selalunya "
+"cantik, pantas, mudah digunakan, dan sentiasa di bawah kawalan anda. "
+"Kebanyakan kebimbangan tentang Linux kini sudah lapuk atau tidak berasas dan "
+"sistem anda akan kekal selamat selepas tarikh akhir Windows 10 tanpa "
+"sebarang kos."
 
 #: content/press/2025-05-28-press-release/index.md:36
 msgid "The End Of 10 campaign has identified 5 reasons to upgrade to Linux:"
 msgstr ""
+"Kempen End Of 10 telah mengenal pasti 5 sebab untuk menaik taraf ke Linux:"
 
 #: content/press/2025-05-28-press-release/index.md:57
 msgid ""
@@ -650,104 +678,111 @@ msgid ""
 "games now run seamlessly on Linux and, in many cases, performance is equal "
 "to or even better than on Windows, especially on older hardware."
 msgstr ""
+"Jika anda seorang pemain permainan, anda mungkin tertanya-tanya: Bolehkah "
+"saya masih bermain permainan saya di Linux? Ya, anda boleh, dan ia tidak "
+"pernah semudah ini! Ribuan permainan AAA popular kini berjalan lancar di "
+"Linux dan, dalam banyak kes, prestasinya sama baik atau lebih baik "
+"berbanding di Windows, terutamanya pada perkakasan yang lebih lama."
 
 #: content/press/2025-05-28-press-release/index.md:59
 msgid ""
 "There is a growing list of Free & Open Source Software and repair "
 "organizations supporting the campaign, including:"
 msgstr ""
+"Terdapat senarai yang semakin berkembang bagi Perisian Percuma & Sumber "
+"Terbuka serta organisasi pembaikan yang menyokong kempen ini, termasuk:"
 
 #: content/press/2025-05-28-press-release/index.md:61
 msgid "anstiftung"
-msgstr ""
+msgstr "anstiftung"
 
 #: content/press/2025-05-28-press-release/index.md:62
 msgid "Associazione LibreItalia"
-msgstr ""
+msgstr "Associazione LibreItalia"
 
 #: content/press/2025-05-28-press-release/index.md:63
 msgid "Computertruhe e.V."
-msgstr ""
+msgstr "Computertruhe e.V."
 
 #: content/press/2025-05-28-press-release/index.md:64
 msgid "Debian"
-msgstr ""
+msgstr "Debian"
 
 #: content/press/2025-05-28-press-release/index.md:65
 msgid "/e/ Foundation"
-msgstr ""
+msgstr "/e/ Foundation"
 
 #: content/press/2025-05-28-press-release/index.md:66
 msgid "EU OS"
-msgstr ""
+msgstr "EU OS"
 
 #: content/press/2025-05-28-press-release/index.md:67
 msgid "FOSS United Foundation"
-msgstr ""
+msgstr "FOSS United Foundation"
 
 #: content/press/2025-05-28-press-release/index.md:68
 msgid "Free Software Foundation Europe"
-msgstr ""
+msgstr "Free Software Foundation Europe"
 
 #: content/press/2025-05-28-press-release/index.md:69
 msgid "GNOME Foundation"
-msgstr ""
+msgstr "GNOME Foundation"
 
 #: content/press/2025-05-28-press-release/index.md:70
 msgid "iFixit"
-msgstr ""
+msgstr "iFixit"
 
 #: content/press/2025-05-28-press-release/index.md:71
 msgid "Italian Linux Society"
-msgstr ""
+msgstr "Italian Linux Society"
 
 #: content/press/2025-05-28-press-release/index.md:72
 msgid "KDE e.V."
-msgstr ""
+msgstr "KDE e.V."
 
 #: content/press/2025-05-28-press-release/index.md:73
 msgid "KDE EspaÃ±a"
-msgstr ""
+msgstr "KDE EspaÃ±a"
 
 #: content/press/2025-05-28-press-release/index.md:74
 msgid "Kubuntu Focus"
-msgstr ""
+msgstr "Kubuntu Focus"
 
 #: content/press/2025-05-28-press-release/index.md:75
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: content/press/2025-05-28-press-release/index.md:76
 msgid "openSUSE"
-msgstr ""
+msgstr "openSUSE"
 
 #: content/press/2025-05-28-press-release/index.md:77
 msgid "Open Source Initiative"
-msgstr ""
+msgstr "Open Source Initiative"
 
 #: content/press/2025-05-28-press-release/index.md:78
 msgid "Repair Cafe International"
-msgstr ""
+msgstr "Repair Cafe International"
 
 #: content/press/2025-05-28-press-release/index.md:79
 msgid "Right To Repair Europe"
-msgstr ""
+msgstr "Right To Repair Europe"
 
 #: content/press/2025-05-28-press-release/index.md:80
 msgid "Runder Tisch Reparatur"
-msgstr ""
+msgstr "Runder Tisch Reparatur"
 
 #: content/press/2025-05-28-press-release/index.md:81
 msgid "Software Freedom Conservancy"
-msgstr ""
+msgstr "Software Freedom Conservancy"
 
 #: content/press/2025-05-28-press-release/index.md:82
 msgid "The Document Foundation"
-msgstr ""
+msgstr "The Document Foundation"
 
 #: content/press/2025-05-28-press-release/index.md:83
 msgid "Zorin OS"
-msgstr ""
+msgstr "Zorin OS"
 
 #: content/press/2025-05-28-press-release/index.md:85
 msgid ""
@@ -756,10 +791,14 @@ msgid ""
 "This campaign is made possible by the enthusiastic contributions of a "
 "dedicated team. Learn more about the team at:"
 msgstr ""
+"Kempen End Of 10 bermula pada November 2024 di Persidangan Perisian Percuma "
+"Tirol Selatan dan telah menarik ramai penyumbang baharu sejak itu. Kempen "
+"ini dimungkinkan oleh sumbangan bersemangat daripada pasukan yang "
+"berdedikasi. Ketahui lebih lanjut tentang pasukan di:"
 
 #: content/press/2025-05-28-press-release/index.md:87
 msgid "https://endof10.org/team/"
-msgstr ""
+msgstr "https://endof10.org/team/"
 
 #: content/press/2025-05-28-press-release/index.md:89
 msgid ""
@@ -774,10 +813,22 @@ msgid ""
 "want. The initiative focuses first on the Italian market, but will be "
 "extended to other locations in the near future. Learn more here:"
 msgstr ""
+"Dan bagaimana jika anda sudah membeli komputer baharu dengan Windows "
+"dipasang tetapi ingin memasang Linux sebaliknya? Jika anda lebih suka "
+"menggunakan Linux atau OS lain, anda masih membayar untuk Windows, walaupun "
+"anda tidak menggunakannya. Itu tidak adil dan sering tidak telus. "
+"Refund4Freedom ialah inisiatif dari Free Software Foundation Europe yang "
+"mempertahankan hak pengguna untuk memilih sistem pengendalian mereka dan "
+"mendapatkan bayaran balik untuk perisian pra-pasang yang tidak digunakan â€” "
+"terutamanya Microsoft Windows â€” pada komputer baharu. Kempen "
+"Refund4Freedom dilancarkan para 29 Mei untuk membantu pengguna mendapatkan "
+"bayaran balik bagi perisian yang mereka tidak dimahukan. Inisiatif ini "
+"memberi tumpuan terlebih dahulu kepada pasaran Itali, tetapi akan "
+"diperluaskan ke lokasi lain tidak lama lagi. Ketahui lebih lanjut di sini:"
 
 #: content/press/2025-05-28-press-release/index.md:91
 msgid "https://refund4freedom.org/"
-msgstr ""
+msgstr "https://refund4freedom.org/"
 
 #: content/press/2025-05-28-press-release/index.md:93
 msgid ""
