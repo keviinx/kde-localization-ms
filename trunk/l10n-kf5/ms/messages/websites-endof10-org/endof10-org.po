@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-10 23:58+0200\n"
+"PO-Revision-Date: 2025-09-11 21:14+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: Malay\n"
 "Language: ms\n"
@@ -533,11 +533,11 @@ msgstr ""
 
 #: content/press/2025-05-28-press-release/index.md:10
 msgid "Yours may be one of them."
-msgstr ""
+msgstr "Komputer anda mungkin salah satunya."
 
 #: content/press/2025-05-28-press-release/index.md:12
 msgid "<!--more-->\n"
-msgstr ""
+msgstr "<!--lagi-->\n"
 
 #: content/press/2025-05-28-press-release/index.md:14
 msgid ""
@@ -547,6 +547,12 @@ msgid ""
 "smartphones and routers, to supercomputers that predict the weather and "
 "robots on Mars."
 msgstr ""
+"Tetapi bagaimana jika anda boleh menjadikan komputer anda sekarang pantas "
+"dan selamat semula supaya anda boleh terus menggunakannya? Terdapat "
+"alternatif kepada Windows, iaitu sesuatu yang percuma, menerima kemas kini "
+"secara tetap dan berfungsi pada hampir semua peranti, daripada kebanyakan "
+"telefon pintar dan penghala, hinggalah superkomputer yang meramal cuaca dan "
+"robot di Marikh."
 
 #: content/press/2025-05-28-press-release/index.md:16
 msgid ""
@@ -554,12 +560,17 @@ msgid ""
 "for you too. Linux can run smoothly on your latest laptop and on a machine "
 "from 10-20 years ago."
 msgstr ""
+"Ya, ia adalah Linux. Linux sangat fleksibel dan mudah disesuaikan, dan ia "
+"juga boleh berfungsi untuk anda. Linux boleh berjalan lancar pada komputer "
+"riba terkini anda mahupun pada mesin berusia 10-20 tahun."
 
 #: content/press/2025-05-28-press-release/index.md:18
 msgid ""
 "The cheapest and most environmentally-friendly computer is the one you "
 "already own."
 msgstr ""
+"Komputer yang paling murah dan paling mesra alam ialah komputer yang anda "
+"sudah miliki."
 
 #: content/press/2025-05-28-press-release/index.md:20
 msgid ""
@@ -568,18 +579,25 @@ msgid ""
 "globe, there are people and places ready to lend you a hand or even install "
 "Linux for you. Many more helper groups get added every day."
 msgstr ""
+"Memasang sistem pengendalian baharu mungkin kedengaran sukar, tetapi "
+"komuniti di sebalik \"End of 10\" sedia membantu! Di bandar dan kota di "
+"seluruh dunia, terdapat individu dan tempat yangbersedia menghulurkan "
+"bantuan atau malah memasang Linux untuk anda. Lebih banyak kumpulan pembantu "
+"ditambah setiap hari."
 
 #: content/press/2025-05-28-press-release/index.md:22
 msgid "Find help near you at our website:"
-msgstr ""
+msgstr "Dapatkan bantuan berhampiran anda di laman web kami:"
 
 #: content/press/2025-05-28-press-release/index.md:24
 msgid "https://endof10.org/"
-msgstr ""
+msgstr "https://endof10.org/"
 
 #: content/press/2025-05-28-press-release/index.md:26
 msgid "Why can't I just migrate my current machine to Windows 11?"
 msgstr ""
+"Mengapa saya tidak boleh hanya memindahkan mesin semasa saya ke Windows 11 "
+"sahaja?"
 
 #: content/press/2025-05-28-press-release/index.md:28
 msgid ""
