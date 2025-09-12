@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-11 23:17+0200\n"
+"PO-Revision-Date: 2025-09-13 00:37+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: Malay\n"
 "Language: ms\n"
@@ -838,76 +838,84 @@ msgid ""
 "gatekeepers to have a non-discriminatory use of software, including Free & "
 "Open Source Software, on their devices. Learn more here:"
 msgstr ""
+"Mahu perkakasan masa hadapan membenarkan anda memasang sebarang perisian "
+"yang ada mahukan? Lagipun, ia adalah perkakasan anda! Device Neutrality, "
+"satu inisiatif daripada Free Software Foundation Europe, bertujuan untuk "
+"membolehkan pengguna akhir memintas pengawal akses supaya dapat menggunakan "
+"perision tanpa diskriminasi, termasuk Perisian Percuma & Sumber Terubka, "
+"pada peranti mereka. Ketahui lebih lanjut di sini:"
 
 #: content/press/2025-05-28-press-release/index.md:95
 msgid "https://fsfe.org/activities/deviceneutrality/index"
-msgstr ""
+msgstr "https://fsfe.org/activities/deviceneutrality/index"
 
 #: content/press/_index.md:0
 msgid "Press"
-msgstr ""
+msgstr "Akhbar"
 
 #: content/press/_index.md:0
 msgid "Press releases about the End of 10 campaign"
-msgstr ""
+msgstr "Siaran akhbar tentang kempen End of 10"
 
 #: content/team.md:0
 msgid "Team behind End of 10"
-msgstr ""
+msgstr "Pasukan di sebalik End Of 10"
 
 #: content/team.md:0
 msgid "Team"
-msgstr ""
+msgstr "Pasukan"
 
 #: content/team.md:9
 msgid ""
 "This campaign has been made possible by the enthusiastic contributions of "
 "the following people (listed in alphabetical order by last name):"
 msgstr ""
+"Kempen ini telah dijayakan oleh sumbangan bersemangat daripada individu "
+"berikut (disenaraikan mengikut abjad mengikut nama keluarga):"
 
 #: content/team.md:11
 msgid "Ã˜jvind Fritjof Arnfred (Danish Translation)"
-msgstr ""
+msgstr "Ã˜jvind Fritjof Arnfred (Terjemahan Bahasa Denmark)"
 
 #: content/team.md:12
 msgid "Albert Astals Cid (Translation)"
-msgstr ""
+msgstr "Albert Astals Cid (Terjemahan)"
 
 #: content/team.md:13
 msgid "Tobias Bernard (GNOME Design Team)"
-msgstr ""
+msgstr "Tobias Bernard (Pasukan Reka Bentuk GNOME)"
 
 #: content/team.md:14
 msgid "Xavier Besnard (French Translation)"
-msgstr ""
+msgstr "Xavier Besnard (Terjemahan Bahasa Perancis)"
 
 #: content/team.md:15
 msgid "Joseph P. De Veaugh-Geiss (KDE Eco)"
-msgstr ""
+msgstr "Joseph P. De Veaugh-Geiss (KDE Eco)"
 
 #: content/team.md:16
 msgid "Tobias Diekershoff (Outreach Events)"
-msgstr ""
+msgstr "Tobias Diekershoff (Acara Outreach)"
 
 #: content/team.md:17
 msgid "Nico DÃ¼sing (Web Development)"
-msgstr ""
+msgstr "Nico DÃ¼sing (Pembangunan Web)"
 
 #: content/team.md:18
 msgid "Finnjan Hofmann (Places/Events)"
-msgstr ""
+msgstr "Finnjan Hofmann (Tempat/Acara)"
 
 #: content/team.md:19
 msgid "MatjaÅ¾ Jeran (Slovenian Translation)"
-msgstr ""
+msgstr "MatjaÅ¾ Jeran (Terjemahan Bahasa Slovenia)"
 
 #: content/team.md:20
 msgid "Jannick Kremer (German Translation)"
-msgstr ""
+msgstr "Jannick Kremer (Terjemahan Bahasa Jerman)"
 
 #: content/team.md:21
 msgid "Bettina Louis (Outreach, Events, Lifelong learning)"
-msgstr ""
+msgstr "Bettina Louis (Outreach, Acara, Pembelajaran sepanjang hayat)"
 
 #: content/team.md:22
 msgid "Harald Reingruber (Repair Cafe and FOSS Supporter)"
