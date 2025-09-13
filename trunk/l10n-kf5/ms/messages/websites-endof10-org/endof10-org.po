@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-endof10-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-09-03 02:08+0000\n"
-"PO-Revision-Date: 2025-09-13 00:37+0200\n"
+"PO-Revision-Date: 2025-09-13 09:12+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: Malay\n"
 "Language: ms\n"
@@ -919,43 +919,43 @@ msgstr "Bettina Louis (Outreach, Acara, Pembelajaran sepanjang hayat)"
 
 #: content/team.md:22
 msgid "Harald Reingruber (Repair Cafe and FOSS Supporter)"
-msgstr ""
+msgstr "Harald Reingruber (Penyokong Kafe Pembaikan dan FOSS)"
 
 #: content/team.md:23
 msgid "Bernard Sadaka (Outreach)"
-msgstr ""
+msgstr "Bernard Sadaka (Outreach)"
 
 #: content/team.md:24
 msgid "Gernot Schiller (Campaign Support)"
-msgstr ""
+msgstr "Gernot Schiller (Sokongan Kempen)"
 
 #: content/team.md:25
 msgid "Carl Schwan (Web Development)"
-msgstr ""
+msgstr "Carl Schwan (Pembangunan Web)"
 
 #: content/team.md:26
 msgid "Carolina Silva Rode (Outreach Latin America)"
-msgstr ""
+msgstr "Carolina Silva Rode (Outreach Amerika Latin)"
 
 #: content/team.md:27
 msgid "Nicole Teale (KDE's Opt Green)"
-msgstr ""
+msgstr "Nicole Teale (Opt Green KDE)"
 
 #: content/team.md:28
 msgid "Geoffrey Teale (Website)"
-msgstr ""
+msgstr "Geoffrey Teale (Laman Web)"
 
 #: content/team.md:29
 msgid "Gerardo Zamudio (Outreach)"
-msgstr ""
+msgstr "Gerardo Zamudio (Outreach)"
 
 #: content/team.md:30
 msgid "KDE Translation Teams"
-msgstr ""
+msgstr "Pasukan Terjemahan KDE"
 
 #: content/team.md:31
 msgid "*and many more!*"
-msgstr ""
+msgstr "*dan ramai lagi!*"
 
 #: content/team.md:33
 msgid ""
@@ -963,72 +963,77 @@ msgid ""
 "Contact the End Of 10 team, include a link to confirm your contributions, "
 "and we will update it as soon as we can!"
 msgstr ""
+"Adakah anda telah menyumbang kepada project ini tetapi nama anda tiada dalam "
+"halaman ini? Hubungi pasukan End Of 10, sertakan pautan untuk mengesahkan "
+"sumbangan anda, dan kami akan mengemaskininya secepat mungkin!"
 
 #: i18n/en.yaml:0
 msgid "Languages"
-msgstr ""
+msgstr "Bahasa"
 
 #: i18n/en.yaml:0
 msgid "Website"
-msgstr ""
+msgstr "Laman Web"
 
 #: i18n/en.yaml:0
 msgid "Telephone"
-msgstr ""
+msgstr "Telefon"
 
 #: i18n/en.yaml:0
 msgid "Email"
-msgstr ""
+msgstr "Emel"
 
 #: i18n/en.yaml:0
 msgid "costs"
-msgstr ""
+msgstr "kos"
 
 #: i18n/en.yaml:0
 msgid "offline"
-msgstr ""
+msgstr "luar talian"
 
 #: i18n/en.yaml:0
 msgid "online"
-msgstr ""
+msgstr "dalam talian"
 
 #: i18n/en.yaml:0
 msgid "online or offline"
-msgstr ""
+msgstr "dalam talian atau luar talian"
 
 #: i18n/en.yaml:0
 msgid "opening hours: "
-msgstr ""
+msgstr "waktu buka: "
 
 #: i18n/en.yaml:0
 msgid "The event starts at {{ . }}."
-msgstr ""
+msgstr "Acara bermula pada {{ . }}."
 
 #: i18n/en.yaml:0
 msgid "The event ends at {{ . }}."
-msgstr ""
+msgstr "Acara berakhir pada {{ . }}."
 
 #: i18n/en.yaml:0
 msgid "Load Map"
-msgstr ""
+msgstr "Muatkan Peta"
 
 #: i18n/en.yaml:0
 msgid "Hide Map"
-msgstr ""
+msgstr "Sembunyikan Peta"
 
 #: i18n/en.yaml:0
 msgid ""
 "This map is provided by OpenStreetMap, see the [Privacy Policy](https://"
 "osmfoundation.org/wiki/Privacy_Policy) of their server."
 msgstr ""
+"Peta ini disediakan oleh OpenStreetMap, lihat [Dasar Privasi](https://"
+"osmfoundation.org/wiki/Privacy_Policy) pelayan mereka."
 
 #: i18n/en.yaml:0
 msgid "End of 10 website content"
-msgstr ""
+msgstr "Kandungan laman web End of 10"
 
 #: i18n/en.yaml:0
 msgid "is licensed under"
-msgstr ""
+msgstr "dilesenkan di bawah"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -1038,23 +1043,28 @@ msgid ""
 "(https://kde.org/privacypolicy/) and [Legal Notices](https://kde.org/"
 "community/whatiskde/impressum/) for more information."
 msgstr ""
+"Terima kasih kepada KDE kerana menyokong projek ini dengan menghoskan laman "
+"web dan menyediakan infrastruktur. Anda boleh menghubungi [KDE Webmasters]"
+"(mailto:kde-www@kde.org) (senara mel awam) atau lihat [Dasar Privasi]"
+"(https://kde.org/privacypolicy/) dan [Notis Undang-undang](https://kde.org/"
+"community/whatiskde/impressum/) untuk maklumat lanjut."
 
 #: i18n/en.yaml:0
 msgid "Searchâ€¦"
-msgstr ""
+msgstr "Cariâ€¦"
 
 #: i18n/en.yaml:0
 msgid "Read more"
-msgstr ""
+msgstr "Baca selanjutnya"
 
 #: i18n/en.yaml:0
 msgid "Publication time"
-msgstr ""
+msgstr "Masa penerbitan"
 
 #: i18n/en.yaml:0
 msgid "FRESH NEW<br>SOFTWARE"
-msgstr ""
+msgstr "PERISIAN<br>BAHARU SEGAR"
 
 #: i18n/en.yaml:0
 msgid "YOUR OLD<br>COMPUTER"
-msgstr ""
+msgstr "KOMPUTER LAMA<br>ANDA"
