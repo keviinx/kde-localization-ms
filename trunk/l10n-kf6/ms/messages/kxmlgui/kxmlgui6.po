@@ -7,20 +7,21 @@
 # Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>, 2006, 2007, 2008, 2009, 2010.
 # Sharuzzaman Ahmat Raslan <sharuzzaman@gmail.com>, 2010, 2011.
 # J Fudson <jackfudson@gmail.com>, 2021.
+# Keviindran Ramachandran <keviinx@yahoo.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-08-21 00:40+0000\n"
-"PO-Revision-Date: 2021-01-29 14:25+0800\n"
-"Last-Translator: ye-yu <rafolwen98@gmail.com>\n"
+"PO-Revision-Date: 2025-09-13 22:43+0200\n"
+"Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: Malay <kde-i18n-doc@kde.org>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 20.12.1\n"
 "Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: Poedit 3.7\n"
 
 #: kaboutapplicationdialog.cpp:60 kaboutplugindialog.cpp:65
 #, kde-format
@@ -35,11 +36,10 @@ msgid "About"
 msgstr "Perihal"
 
 #: kaboutapplicationdialog.cpp:94
-#, fuzzy, kde-format
-#| msgid "Comments"
+#, kde-format
 msgctxt "@title:tab"
 msgid "Components"
-msgstr "Komen"
+msgstr "Komponen"
 
 #: kaboutapplicationdialog.cpp:104 kaboutplugindialog.cpp:92
 #, kde-format
@@ -68,10 +68,9 @@ msgid "About KDE"
 msgstr "Perihal KDE"
 
 #: kaboutkdedialog_p.cpp:34
-#, fuzzy, kde-format
-#| msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
+#, kde-format
 msgid "<html><font size=\"5\">KDE</font><br />Be Free!</html>"
-msgstr "<html><font size=\"5\">%1</font><br />Versi %2</html>"
+msgstr "<html><font size=\"5\">KDE</font><br />Jadi Bebas!</html>"
 
 #: kaboutkdedialog_p.cpp:45
 #, kde-format
@@ -82,9 +81,9 @@ msgid ""
 "hundreds of applications, and the many software libraries that support them."
 "<br /><br />KDE is a cooperative enterprise: no single entity controls its "
 "direction or products. Instead, we work together to achieve the common goal "
-"of building the world's finest Free Software. Everyone is welcome to <a href="
-"\"%2\">join and contribute</a> to KDE, including you.<br /><br />Visit <a "
-"href=\"%3\">%3</a> for more information about the KDE community and the "
+"of building the world's finest Free Software. Everyone is welcome to <a "
+"href=\"%2\">join and contribute</a> to KDE, including you.<br /><br />Visit "
+"<a href=\"%3\">%3</a> for more information about the KDE community and the "
 "software we produce.</html>"
 msgstr ""
 "<html><b>KDE</b> adalah rangkaian sedunia bagi jurutera perisian, artis, "
@@ -95,9 +94,9 @@ msgstr ""
 "yang mengawal arah tuju dan hasil produk KDE. Sebaliknya, kami bekerjasama "
 "untuk mencapai matlamat bersama untuk membina Perisian Bebas yang paling "
 "seni di dunia. Semua orang dialu-alukan untuk <a href=\"%2\">menyertai dan "
-"menyumbang</a> kepada KDE, termasuk anda. <br /><br />Lawati <a href=\"%3\">"
-"%3</a> untuk maklumat lanjut tentang komuniti KDE dan perisian yang kami "
-"hasilkan.</html>"
+"menyumbang</a> kepada KDE, termasuk anda. <br /><br />Lawati <a "
+"href=\"%3\">%3</a> untuk maklumat lanjut tentang komuniti KDE dan perisian "
+"yang kami hasilkan.</html>"
 
 #: kaboutkdedialog_p.cpp:66
 #, kde-format
@@ -123,14 +122,6 @@ msgstr ""
 
 #: kaboutkdedialog_p.cpp:85
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html>You do not have to be a software developer to be a member of the "
-#| "KDE team. You can join the national teams that translate program "
-#| "interfaces. You can provide graphics, themes, sounds, and improved "
-#| "documentation. You decide!<br /><br />Visit <a href=\"%1\">%1</a> for "
-#| "information on some projects in which you can participate.<br /><br />If "
-#| "you need more information or documentation, then a visit to <a href="
-#| "\"%2\">%2</a> will provide you with what you need.</html>"
 msgid ""
 "<html>You do not have to be a software developer to be a member of the KDE "
 "team. You can join the language teams that translate program interfaces. You "
@@ -143,11 +134,11 @@ msgstr ""
 "<html>Anda tidak semestinya seorang pembangun perisian untuk menjadi ahli "
 "kumpulan KDE. Anda boleh menyertai kumpulan nasional yang menterjemahkan "
 "program antaramuka. Anda boleh membekalkan grafik, tema, bunyi, dan "
-"dokumentasi yang lebih baik. Anda yang pilih!<br /><br />Layari <a href="
-"\"%1\">%1</a> Untuk maklumat untuk beberapa projek yang anda boleh sertai. "
-"<br /><br />Sekiranya anda memerlukan informasi ataupun dokumentasi lebih, "
-"anda boleh melayari <a href=\"%2\">%2</a> untuk mencari perkara yang anda "
-"perlukan.</html>"
+"dokumentasi yang lebih baik. Anda yang pilih!<br /><br />Layari <a "
+"href=\"%1\">%1</a> Untuk maklumat untuk beberapa projek yang anda boleh "
+"sertai. <br /><br />Sekiranya anda memerlukan informasi ataupun dokumentasi "
+"lebih, anda boleh melayari <a href=\"%2\">%2</a> untuk mencari perkara yang "
+"anda perlukan.</html>"
 
 #: kaboutkdedialog_p.cpp:108
 #, kde-format
@@ -205,7 +196,6 @@ msgstr "&Sokong KDE"
 
 #: kabstractaboutdialog_p.cpp:47
 #, fuzzy, kde-format
-#| msgid "Version %1"
 msgctxt "Version version-number"
 msgid "Version %1"
 msgstr "Versi %1"
@@ -217,8 +207,6 @@ msgstr "Lesen: %1"
 
 #: kabstractaboutdialog_p.cpp:118
 #, fuzzy, kde-format
-#| msgctxt "name of digit set with digit string, e.g. 'Arabic (0123456789)'"
-#| msgid "%1 (%2)"
 msgctxt "@info Platform name"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
@@ -226,13 +214,13 @@ msgstr "%1 (%2)"
 #: kabstractaboutdialog_p.cpp:123
 #, kde-format
 msgid "KDE Frameworks"
-msgstr ""
+msgstr "KDE Frameworks"
 
 #: kabstractaboutdialog_p.cpp:124
 #, kde-format
 msgctxt "@info"
 msgid "Collection of libraries created by the KDE Community to extend Qt."
-msgstr ""
+msgstr "Koleksi pustaka yang dicipta oleh Komuniti KDE untuk meluaskan Qt."
 
 #: kabstractaboutdialog_p.cpp:128
 #, kde-format
@@ -243,111 +231,93 @@ msgstr "Qt"
 #, kde-format
 msgctxt "@info"
 msgid "Cross-platform application development framework."
-msgstr ""
+msgstr "Rangka kerja pembangunan aplikasi merentas platform."
 
 #: kabstractaboutdialog_p.cpp:130
 #, kde-format
 msgid "Using %1 and built against %2"
-msgstr ""
+msgstr "Menggunakan %1 dan dibina dengan %2"
 
 #: kabstractaboutdialog_p.cpp:136
 #, kde-format
 msgctxt "Linux packaging format"
 msgid "Flatpak"
-msgstr ""
+msgstr "Flatpak"
 
 #: kabstractaboutdialog_p.cpp:139
 #, kde-format
 msgctxt "Linux packaging format"
 msgid "Snap"
-msgstr ""
+msgstr "Snap"
 
 #: kabstractaboutdialog_p.cpp:142
-#, fuzzy, kde-format
-#| msgctxt "@option:check A filter on file type"
-#| msgid "Images"
+#, kde-format
 msgctxt "Linux packaging format"
 msgid "AppImage"
-msgstr "Imej"
+msgstr "AppImage"
 
 #: kabstractaboutdialog_p.cpp:145
 #, kde-format
 msgctxt "@info"
 msgid "Distribution method."
-msgstr ""
+msgstr "Kaedah pengedaran."
 
 #: kabstractaboutdialog_p.cpp:148
 #, kde-format
 msgctxt "@info"
 msgid "Underlying platform."
-msgstr ""
+msgstr "Platform asas."
 
 #: kabstractaboutdialog_p.cpp:176
-#, fuzzy, kde-format
-#| msgid "Visit contributor's homepage"
+#, kde-format
 msgctxt "@action:button"
 msgid "Visit component's homepage"
-msgstr "Lawati laman web penyumbang"
+msgstr "Lawati laman utama komponen"
 
 #: kabstractaboutdialog_p.cpp:177
-#, fuzzy, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid ""
-#| "Visit contributor's homepage\n"
-#| "%1"
+#, kde-format
 msgctxt "@info:tooltip"
 msgid ""
 "Visit components's homepage\n"
 "%1"
 msgstr ""
-"Lawati laman web penyumbang\n"
+"Lawati laman utama komponen\n"
 "%1"
 
 #: kabstractaboutdialog_p.cpp:199
 #, kde-format
 msgctxt "@action:button"
 msgid "Copy to Clipboard"
-msgstr ""
+msgstr "Salin ke Papan Klip"
 
 #: kabstractaboutdialog_p.cpp:259
-#, fuzzy, kde-format
-#| msgid "Visit contributor's homepage"
+#, kde-format
 msgctxt "@action:button"
 msgid "Visit author's homepage"
-msgstr "Lawati laman web penyumbang"
+msgstr "Lawati laman utama pengarang"
 
 #: kabstractaboutdialog_p.cpp:260
-#, fuzzy, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid ""
-#| "Visit contributor's homepage\n"
-#| "%1"
+#, kde-format
 msgctxt "@info:tooltip"
 msgid ""
 "Visit author's homepage\n"
 "%1"
 msgstr ""
-"Lawati laman web penyumbang\n"
+"Lawati laman utama pengarang\n"
 "%1"
 
 #: kabstractaboutdialog_p.cpp:274
-#, fuzzy, kde-format
-#| msgctxt "Action to send an email to a contributor"
-#| msgid "Email contributor"
+#, kde-format
 msgctxt "@action:button Send an email to a contributor"
 msgid "Email contributor"
-msgstr "Emel penyumbang"
+msgstr "E-mel penyumbang"
 
 #: kabstractaboutdialog_p.cpp:275
-#, fuzzy, kde-format
-#| msgctxt "@info:tooltip Action to send an email to a contributor"
-#| msgid ""
-#| "Email contributor\n"
-#| "%1"
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Email contributor: %1"
 msgstr ""
-"Penyumbang emel\n"
+"E-mel penyumbang\n"
 "%1"
 
 #: kabstractaboutdialog_p.cpp:314
@@ -357,6 +327,8 @@ msgid ""
 "Please use %1 to report bugs.<br/>If you have questions or need help, please "
 "visit %2.<br/>"
 msgstr ""
+"Sila gunakan %1 untuk melaporkan pepijat.</br>Jika anda mempunyai soalan "
+"atau memerlukan bantuan, sila lawati %2.</br>"
 
 #: kabstractaboutdialog_p.cpp:324
 #, fuzzy, kde-format
@@ -404,7 +376,7 @@ msgid ""
 "please use the Report Bug menu item of the correct application"
 msgstr ""
 "Program aplikasi yang berkaitan dengan laporan pepijat - jika tidak benar, "
-"sila gunakan menu Laporan Pepijat untuk memperbaiki aplikasi."
+"sila gunakan menu Laporan Pepijat untuk memperbaiki aplikasi"
 
 #: kbugreport.cpp:102
 #, kde-format
@@ -434,7 +406,7 @@ msgstr "tiada set versi (ralat pengaturcara)"
 #, kde-format
 msgctxt "%1 is the program version, %2 is the kde framework version"
 msgid "%1 with KDE Frameworks %2"
-msgstr ""
+msgstr "%1 dengan KDE Frameworks %2"
 
 #: kbugreport.cpp:130
 #, kde-format
@@ -611,19 +583,16 @@ msgid "Curr&ent actions:"
 msgstr "Tindakan S&emasa:"
 
 #: kedittoolbar.cpp:1045
-#, fuzzy, kde-format
-#| msgid "Change Icon"
+#, kde-format
 msgctxt "@action:button"
 msgid "Change &Icon…"
-msgstr "Ubah Ikon"
+msgstr "Ubah &Icon…"
 
 #: kedittoolbar.cpp:1054
-#, fuzzy, kde-format
-#| msgctxt "@title:window"
-#| msgid "Change Text"
+#, kde-format
 msgctxt "@action:button"
 msgid "Change Te&xt…"
-msgstr "Ubah Teks"
+msgstr "Ubah Te&ks…"
 
 #: kedittoolbar.cpp:1196
 #, kde-format
@@ -849,7 +818,7 @@ msgstr "J Fudson,Sharuzzaman Ahmat Raslan"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "jackfudson@gmail.com,sharuzzaman@myrealbox.com"
+msgstr "Emel anda"
 
 #: kmenumenuhandler_p.cpp:37
 #, kde-format
@@ -1095,7 +1064,7 @@ msgstr "Global:"
 #: kshortcutseditor.cpp:549
 #, kde-format
 msgid "Global alternate:"
-msgstr "Alternatif Global"
+msgstr "Alternatif Global:"
 
 #: kshortcutseditor.cpp:565
 #, kde-format
@@ -1352,21 +1321,20 @@ msgid "No text"
 msgstr "Tiada teks"
 
 #: kxmlguiwindow.cpp:191
-#, fuzzy, kde-format
-#| msgid "Action"
+#, kde-format
 msgid "Find Action…"
-msgstr "Tindakan"
+msgstr "Cari Tindakan…"
 
 #: kxmlguiwindow.cpp:561
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
-"is most probably a bug. Please report it in <a href='https://bugs.kde."
-"org'>bugs.kde.org</a>"
+"is most probably a bug. Please report it in <a href='https://"
+"bugs.kde.org'>bugs.kde.org</a>"
 msgstr ""
 "Terdapat dua tindakan (%1, %2) yang ingin menggukan pintasan (%3).  Ini "
-"mungkin satu pepijat. Sila laporkan di <a href='https://bugs.kde.org'>bugs."
-"kde.org</a>"
+"mungkin satu pepijat. Sila laporkan di <a href='https://"
+"bugs.kde.org'>bugs.kde.org</a>"
 
 #: kxmlguiwindow.cpp:566
 #, kde-format
@@ -2796,8 +2764,8 @@ msgstr "Bar Alatan Utama"
 #~ msgid ""
 #~ "<p>KDE is translated into many languages thanks to the work of the "
 #~ "translation teams all over the world.</p><p>For more information on KDE "
-#~ "internationalization visit <a href=\"http://l10n.kde.org\">http://l10n."
-#~ "kde.org</a></p>"
+#~ "internationalization visit <a href=\"http://l10n.kde.org\">http://"
+#~ "l10n.kde.org</a></p>"
 #~ msgstr ""
 #~ "<p>KDE diterjemahkan kepada pelbagai bahasa oleh pasukan penterjemah di "
 #~ "serata dunia.</p><p>Untuk maklumat lanjut berkaitan pengantarabangsaan "
@@ -4208,11 +4176,11 @@ msgstr "Bar Alatan Utama"
 #~ msgstr "Tiada servis sepadan dengan keperluan dijumpai."
 
 #~ msgid ""
-#~ "The service provides no library, the Library key is missing in the ."
-#~ "desktop file."
+#~ "The service provides no library, the Library key is missing in "
+#~ "the .desktop file."
 #~ msgstr ""
-#~ "Servis tidak menyediakan pustaka, kekunci Pustaka tiada didalam fail ."
-#~ "desktop."
+#~ "Servis tidak menyediakan pustaka, kekunci Pustaka tiada didalam "
+#~ "fail .desktop."
 
 #~ msgid "The library does not export a factory for creating components."
 #~ msgstr "Pustaka tidak mengeksport pengilang untuk mencipta komponen."
@@ -9063,8 +9031,8 @@ msgstr "Bar Alatan Utama"
 #~ "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;"
 #~ "%3&gt;</i><br />:</qt>"
 #~ msgstr ""
-#~ "<qt>Masukkan frasa laluan untuk kekunci <b>0x%1</b>, milik kepada<br /><i>"
-#~ "%2&lt;%3&gt;</i><br />:</qt>"
+#~ "<qt>Masukkan frasa laluan untuk kekunci <b>0x%1</b>, milik kepada<br /"
+#~ "><i>%2&lt;%3&gt;</i><br />:</qt>"
 
 #~ msgid ""
 #~ "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
@@ -10306,8 +10274,9 @@ msgstr "Bar Alatan Utama"
 #~ "Generate simple and fast wrapper classes not based on Nepomuk::Resource "
 #~ "which do not provide any data integrity checking"
 #~ msgstr ""
-#~ "Jana kelas pembalut mudah dan pantas tidak berasaskan pada Nepomuk::"
-#~ "Resource yang tidak menyediakan sebarang pemeriksaan kebolehpercayaan data"
+#~ "Jana kelas pembalut mudah dan pantas tidak berasaskan pada "
+#~ "Nepomuk::Resource yang tidak menyediakan sebarang pemeriksaan "
+#~ "kebolehpercayaan data"
 
 #~ msgid "Actually generate the code."
 #~ msgstr "Benar-benar menjana kod."
@@ -10630,17 +10599,17 @@ msgstr "Bar Alatan Utama"
 #~ msgstr "Pukul berapa sekarang? Klik untuk kemaskini."
 
 #~ msgid ""
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
-#~ "\" white-space: pre-wrap; font-family:Sans Serif; font-weight:400; font-"
-#~ "style:normal; text-decoration:none;\"><p style=\" margin-top:0px; margin-"
-#~ "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-#~ "indent:0px;\">(do not know yet)</p></body></html>"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body "
+#~ "style=\" white-space: pre-wrap; font-family:Sans Serif; font-weight:400; "
+#~ "font-style:normal; text-decoration:none;\"><p style=\" margin-top:0px; "
+#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+#~ "text-indent:0px;\">(do not know yet)</p></body></html>"
 #~ msgstr ""
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
-#~ "\" white-space: pre-wrap; font-family:Sans Serif; font-weight:400; font-"
-#~ "style:normal; text-decoration:none;\"><p style=\" margin-top:0px; margin-"
-#~ "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-#~ "indent:0px;\">(belum diketahui lagi)</p></body></html>"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body "
+#~ "style=\" white-space: pre-wrap; font-family:Sans Serif; font-weight:400; "
+#~ "font-style:normal; text-decoration:none;\"><p style=\" margin-top:0px; "
+#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+#~ "text-indent:0px;\">(belum diketahui lagi)</p></body></html>"
 
 #~ msgid "Select Files..."
 #~ msgstr "Pilih Fail..."
