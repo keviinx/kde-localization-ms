@@ -1,0 +1,1070 @@
+#
+# SPDX-FileCopyrightText: 2025 Keviindran Ramachandran <keviinx@yahoo.com>
+# Keviindran Ramachandran <keviinx@yahoo.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-endof10-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-03 02:08+0000\n"
+"PO-Revision-Date: 2025-09-13 09:12+0200\n"
+"Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
+"Language-Team: Malay\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.7\n"
+
+#: config.yaml:0 content/_index.md:0
+msgid "End of 10"
+msgstr "End of 10"
+
+#: content/_index.md:0
+msgid ""
+"Windows 10 ends in 2025. Donâ€™t buy a new PC â€” revive yours with Linux. "
+"It's fast, secure, and help is available to get you started."
+msgstr ""
+"Windows 10 akan berakhir pada tahun 2025. Jangan beli PC baharu, hidupkan "
+"semula PC anda dengan Linux. Ia pantas, selamat, dan bantuan tersedia untuk "
+"anda bermula."
+
+#: content/_index.md:0
+msgid "/laptop-thumbnail.png"
+msgstr "/laptop-thumbnail.png"
+
+#: content/_index.md:8
+msgid "Use your old computer but with fresh new software."
+msgstr "Gunakan komputer lama anda, tetapi dengan perisian yang baharu."
+
+#: content/_index.md:10
+msgid "Support for Windows 10 ends on October 14, 2025."
+msgstr "Sokongan untuk Windows 10 akan tamat pada 10 Oktober 2025."
+
+#: content/_index.md:12
+msgid "Microsoft wants you to buy a new computer."
+msgstr "Microsoft mahu anda membeli komputer baharu."
+
+#: content/_index.md:14
+msgid "But what if you could make your current one fast and secure again?"
+msgstr ""
+"Tetapi bagaimana jika anda boleh menjadikan komputer anda pantas dan selamat "
+"semula?"
+
+#: content/_index.md:18
+msgid ""
+"If you bought your computer after 2010, there's most likely no reason to "
+"throw it out. By just installing an up-to-date Linux operating system you "
+"can keep using it for years to come."
+msgstr ""
+"Jika anda membeli komputer anda selepas tahun 2010, kemungkinan besar tiada "
+"sebab untuk membuangnya. Dengan hanya memasang sistem operasi Linux yang "
+"terkini, anda boleh terus menggunakannya untuk bertahun-tahun lagi."
+
+#: content/_index.md:22
+msgid ""
+"Installing an operating system may sound difficult, but you don't have to do "
+"it alone. With any luck, there are people in your area ready to help!"
+msgstr ""
+"Memasang sistem operasi munkin kedengaran sukar, tetapi anda tidak perlu "
+"melakukannya seorang diri. Jika bernasib baik, ada orang di kawasan anda "
+"yang bersedia untuk membantu!"
+
+#: content/_index.md:28
+msgid "Find someone to help&nbsp;you"
+msgstr "Cari seseorang untuk membantu anda"
+
+#: content/_index.md:32
+msgid "[Install Linux yourself â†’](/install)"
+msgstr "[Pasang Linux sendiri â†’](/install)"
+
+#: content/_index.md:36
+msgid ""
+"Would you like to help others keep their computer alive after "
+"Windows&nbsp;10?"
+msgstr ""
+"Mahukah anda membantu orang lain menyelamatkan komputer mereka selepas "
+"Windows 10?"
+
+#: content/_index.md:40
+msgid "Sign up as repair collective"
+msgstr "Daftar sebagai kolektif pembaikan"
+
+#: content/_index.md:48
+msgid "**5 Reasons** to upgrade your old computer to Linux"
+msgstr "**5 Sebab** untuk menaik taraf komputer lama anda kepada Linux"
+
+#: content/_index.md:50 content/press/2025-05-28-press-release/index.md:38
+msgid ""
+"**No New Hardware, No Licensing Costs**{{< br >}} A new laptop costs a lot "
+"of money, but several Linux operating systems are available for free. "
+"Software updates are also free, forever. You can of course show your support "
+"with donations!"
+msgstr ""
+"**Tanpa Perkakasan Baharu, Tanpa Kos Pelesenan**{{< br >}} Komputer riba "
+"baharu berharga mahal, tetapi beberapa sistem operasi Linux tersedia secara "
+"percuma. Kemas kini perisian juga percuma, selama-lamanya. Sudah tentu, anda "
+"boleh menunjukkan sokongan anda melalui sumbangan derma!"
+
+#: content/_index.md:54 content/press/2025-05-28-press-release/index.md:42
+msgid ""
+"**Enhanced Privacy**{{< br >}} Windows comes with lots of ads and spyware. "
+"This slows down your computer, lets companies spy on you, and increases your "
+"energy bills."
+msgstr ""
+"**Privasi Dipertingkat**{{< br >}} Windows datang dengan banyak iklan dan "
+"perisian intip. Hal ini memperlahankan komputer anda, membenarkan syarikat-"
+"syarikat mengintip anda, dan meningkatkan bil tenaga anda."
+
+#: content/_index.md:57 content/press/2025-05-28-press-release/index.md:45
+msgid ""
+"**Good For The Planet**{{< br >}} Production of a computer accounts for 75+% "
+"of carbon emissions over its lifecycle. Keeping a functioning device longer "
+"is a hugely effective way to reduce emissions. With a Linux operating system "
+"you can use your device longer."
+msgstr ""
+"**Baik Untuk Planet**{{< br >}} Pengeluaran sesebuah komputer menyumbang "
+"kepada lebih 75% pelepasan karbon sepanjang kitaran hayatnya. Menggunakan "
+"peranti yang masih berfungsi untuk tempoh yang lebih lama adalah cara yang "
+"sangat berkesan untuk mengurangkan pelepasan. Dengan sistem operasi Linux, "
+"anda boleh menggunakan peranti anda dengan lebih lama."
+
+#: content/_index.md:61 content/press/2025-05-28-press-release/index.md:49
+msgid ""
+"**Community & Professional Support**{{< br >}} There are local repair cafes "
+"and independent, professional services and computer shops available for "
+"providing you help. You can find support in online forums, too."
+msgstr ""
+"**Sokongan Komuniti & Profesional**{{< br >}} Terdapat kafe baik pulih "
+"tempatan, perkhidmatan profesional dan kedai komputer yang bebas, yang "
+"tersedia untuk membantu anda. Anda juga boleh mendapatkan sokongan di forum "
+"dalam talian."
+
+#: content/_index.md:65 content/press/2025-05-28-press-release/index.md:53
+msgid ""
+"**Better User Control**{{< br >}} Linux grants you the four freedoms of "
+"software. You are free to use, study, share, and improve the program, for as "
+"long as you wish. You are in control of your device."
+msgstr ""
+"**Kawalan Pengguna Lebih Baik**{{< br >}} Linux memberikan anda empat "
+"kebebasan perisian. Anda bebas untuk menggunakan, mempelajari, berkongsi, "
+"dan menambah baik program tersebut, selagi mana yang anda inginkan. Andalah "
+"yang mengawal peranti anda."
+
+#: content/_index.md:69
+msgid "Supporters"
+msgstr "Para Penyokong"
+
+#: content/_index.md:71
+msgid ""
+"These organizations (listed alphabetically) have joined us in support of the "
+"campaign."
+msgstr ""
+"Organisasi-organisasi ini (disenaraikan mengikut abjad) telah menyertai kami "
+"untuk menyokong kempen ini."
+
+#: content/_index.md:75
+msgid "Convinced?"
+msgstr "Sudah yakin?"
+
+#: content/_index.md:77
+msgid ""
+"Then find your closest repair cafe or independent computer shop and enjoy "
+"your brand-new, old computer!"
+msgstr ""
+"Kalau begitu, cari kafe baik pulih atau kedai komputer bebas yang terdekat, "
+"dan nikmati komputer lama anda yang serba baharu!"
+
+#: content/_index.md:82
+msgid "Repair your old computer"
+msgstr "Baiki komputer lama anda"
+
+#: content/contribute.md:0
+msgid "Contribute"
+msgstr "Sumbang"
+
+#: content/contribute.md:0
+msgid "Add a place or event"
+msgstr "Tambah tempat atau acara"
+
+#: content/contribute.md:9
+msgid ""
+"When can I publish our repair cafÃ© or independent computer shop at "
+"endof10.org?"
+msgstr ""
+"Bilakah saya boleh menyenaraikan kafe baik pulih atau kedai komputer bebas "
+"kami di endof10.org?"
+
+#: content/contribute.md:11
+msgid "If you offer Linux help, you can add your location right now!"
+msgstr ""
+"Jika anda menawarkan bantuan Linux, anda boleh menambahkan lokasi anda "
+"sekarang juga!"
+
+#: content/contribute.md:13
+msgid ""
+"A description of the information we need [for places](https://invent.kde.org/"
+"websites/endof10-org#places) and [for events](https://invent.kde.org/"
+"websites/endof10-org#events) can be found at the Git repository's README. "
+"Send the information by email to endof10 [at] lists.posteo.de. If you can, "
+"help us out by providing that information in JSON format."
+msgstr ""
+"Penerangan tentang maklumat yang kami perlukan [untuk tempat](https://"
+"invent.kde.org/websites/endof10-org#places) dan [untuk acara](https://"
+"invent.kde.org/websites/endof10-org#events) boleh didapati di README "
+"repositori Git. Hantarkan maklumat tersebut melalui e-mel ke endo10 [at] "
+"lists.posteo.de. Jika anda boleh, bantu kami dengan memberikan maklumat "
+"tersebut dalam format JSON."
+
+#: content/contribute.md:20
+msgid ""
+"If you have the technical know-how, you can also make a [Merge Request]"
+"(https://invent.kde.org/websites/endof10-org/-/tree/master/data) yourself at "
+"the End Of 10 website's repository."
+msgstr ""
+"Jika anda mempunyai kepakaran teknikal, anda juga boleh membuat [Merge "
+"Request](https://invent.kde.org/websites/endof10-org/-/tree/master/data) "
+"sendiri di repositori laman web End of 10."
+
+#: content/contribute.md:24
+msgid ""
+"See the [FAQ](https://endof10.org/faq#i-like-to-help-people-install-linux-"
+"but-i-am-not-a-part-of-any-group-can-i-be-listed-anyway) for why we list "
+"organizations, not individuals."
+msgstr ""
+"Lihat [Soalan Lazim (FAQ)](https://endof10.org/faq#i-like-to-help-people-"
+"install-linux-but-i-am-not-a-part-of-any-group-can-i-be-listed-anyway) untuk "
+"mengetahui mengapa kami menyenaraikan organisasi, bukan individu."
+
+#: content/contribute.md:26
+msgid "How can I get involved with the campaign?"
+msgstr "Bagaimanakah saya boleh terlibat dengan kempen ini?"
+
+#: content/contribute.md:28
+msgid ""
+"There are many ways to get involved! Contact us so we can coordinate your "
+"efforts with ours."
+msgstr ""
+"Terdapat banyak cara untuk terlibat! Hubungi kami supaya kami boleh "
+"menyelaraskan usaha anda dengan usaha kami."
+
+#: content/contribute.md:30
+msgid ""
+"Contact repair cafes and independent computer shops [offering Linux support]"
+"(https://endof10.org/faq#is-there-any-way-at-all-i-can-offer-linux-support-"
+"as-an-individual) and put them in touch with us"
+msgstr ""
+"Hubungi kafe-kafe baik pulih dan kedai-kedai komputer bebas [yang menawarkan "
+"sokongan Linux](https://endof10.org/faq#is-there-any-way-at-all-i-can-offer-"
+"linux-support-as-an-individual) dan hubungkan mereka dengan kami"
+
+#: content/contribute.md:31
+msgid ""
+"[Organize an installation event](https://endof10.org/faq#how-do-i-organize-"
+"an-install-party) or [start a Repair Cafe](https://endof10.org/faq#how-do-i-"
+"organize-a-repair-cafe?) and let us know about it"
+msgstr ""
+"[Anjurkan acara pemasangan](https://endof10.org/faq#how-do-i-organize-an-"
+"install-party) atau [mulakan Kafe Baik Pulih](https://endof10.org/faq#how-do-"
+"i-organize-a-repair-cafe?) dan maklumkan kepada kami tentangnya"
+
+#: content/contribute.md:32
+msgid ""
+"Design materials for new users such as guides, [promotional materials]"
+"(https://endof10.org/faq#do-you-have-ads-flyers-posters-jingles-etc-for-"
+"advertising-the-end-of-10-campaign), etc."
+msgstr ""
+"Reka bahan untuk pengguna baharu seperti bantuan, [bahan promosi](https://"
+"endof10.org/faq#do-you-have-ads-flyers-posters-jingles-etc-for-advertising-"
+"the-end-of-10-campaign), dan lain-lain."
+
+#: content/contribute.md:33
+msgid ""
+"[Distribute materials](https://endof10.org/faq#can-i-still-help-if-i-do-not-"
+"have-time-to-organize-an-install-event-or-repair-cafe) in cafes, shops, "
+"universities, schools in your area"
+msgstr ""
+"[Edarkan bahan](https://endof10.org/faq#can-i-still-help-if-i-do-not-have-"
+"time-to-organize-an-install-event-or-repair-cafe) di kafe, kedai, "
+"universiti, sekolah di kawasan anda"
+
+#: content/contribute.md:34
+msgid ""
+"Boost the campaign's online presence by sharing [our social media](https://"
+"endof10.org/faq#is-the-campaign-active-on-social-media) posts on your "
+"preferred platforms"
+msgstr ""
+"Tingkatkan kehadiran kempen dalam talian dengan berkongsi siaran [media "
+"sosial kami](https://endof10.org/faq#is-the-campaign-active-on-social-media) "
+"di platform pilihan anda"
+
+#: content/contribute.md:35
+msgid "Translate the website (more below), promotional materials, etc."
+msgstr ""
+"Terjemahkan laman web (lebih lanjut di bawah), bahan promosi, dan lain-lain."
+
+#: content/contribute.md:36
+msgid ""
+"Volunteer with [FOSS communities](https://endof10.org/#supporters) "
+"participating in the campaign (improving documentation, software debugging, "
+"design)"
+msgstr ""
+"Jadi sukarelawan dengan [komuniti FOSS](https://endof10.org/#supporters) "
+"yang menyertai kempen ini (menambah baik dokumentasi, penyahpepijatan "
+"perisian, reka bentuk)"
+
+#: content/contribute.md:38
+msgid "\\<your ideas\\>"
+msgstr "\\<idea anda\\>"
+
+#: content/contribute.md:40
+msgid "Which communication platforms do the End Of 10 campaign organizers use?"
+msgstr ""
+"Platform komunikasi manakah yang digunakan oleh penganjur kempen End Of 10?"
+
+#: content/contribute.md:42
+msgid ""
+"Write us at one of these public channels, introduce yourself, and let us "
+"know how you'd like to get involved:"
+msgstr ""
+"Tulis kepada kami di salah satu saluran awam ini, perkenalkan diri anda, dan "
+"beritahu kami bagaimana anda ingin terlibat:"
+
+#: content/contribute.md:45
+msgid "Matrix: https://matrix.to/#/#endof10:kde.org"
+msgstr "Matrix: https://matrix.to/#/#endof10:kde.org"
+
+#: content/contribute.md:46
+msgid "Mailing list: https://lists.posteo.de/listinfo/endof10"
+msgstr "Senarai mel: https://lists.posteo.de/listinfo/endof10"
+
+#: content/contribute.md:48
+msgid ""
+"You can also find us on the Fediverse. Campaign hashtags are #EndOf10 and "
+"#EO10Challenges."
+msgstr ""
+"Anda juga boleh menemui kami di Fediverse. Hashtag kempen ialah #EndOf10 dan "
+"#EO10Challenges."
+
+#: content/contribute.md:50
+msgid "Mastodon: https://floss.social/@endof10"
+msgstr "Mastodon: https://floss.social/@endof10"
+
+#: content/contribute.md:52
+msgid "How can I help with the translation of the endof10.org website?"
+msgstr ""
+"Bagaimanakah saya boleh membantu dengan terjemahan laman web endof10.org?"
+
+#: content/contribute.md:54
+msgid ""
+"The website is hosted by KDE and follows the translation workflow used for "
+"all of KDE's websites."
+msgstr ""
+"Laman web ini dihoskan oleh KDE dan mengikuti aliran kerja terjemahan yang "
+"digunakan untuk semua laman web KDE."
+
+#: content/contribute.md:57
+msgid "Find your language team: https://l10n.kde.org/."
+msgstr "Cari pasukan bahasa anda: https://l10n.kde.org/."
+
+#: content/contribute.md:60
+msgid ""
+"Learn about the process: https://community.kde.org/Get_Involved/translation"
+msgstr ""
+"Ketahui tentang prosesnya: https://community.kde.org/Get_Involved/translation"
+
+#: content/events/_index.md:0
+msgid "Upcoming Events"
+msgstr "Acara Akan Datang"
+
+#: content/events/_index.md:0
+msgid "Events"
+msgstr "Acara"
+
+#: content/events/_index.md:12
+msgid ""
+"Here is a list of events where you can get help with Linux. You can also "
+"look for [places](/places/) that provide help more regularly. Please note "
+"that the information here is submitted by the organizers themselves and is "
+"not evaluated by the campaign. Responsibility for a device is with the "
+"owner. For corrections or concerns, please [contact us](https://endof10.org/"
+"contribute/#which-communication-platforms-does-the-end-of-10-campaign-use)."
+msgstr ""
+"Berikut ialah senarai acara di mana anda boleh mendapatkan bantuan dengan "
+"Linux. Anda juga boleh mencari [tempat](/places/) yang menyediakan bantuan "
+"secara lebih kerap. Sila ambil perhatian bahawa maklumat di sini dihantar "
+"oleh penganjur sendiri dan tidak dinilai oleh kempen. Tanggungjawab untuk "
+"peranti adalah pada pemiliknya. Untuk pembetulan atau sebarang kebimbangan, "
+"sila [hubungi kami](https://endof10.org/contribute/#which-communication-"
+"platforms-does-the-end-of-10-campaign-use)."
+
+#: content/events/_index.md:24
+msgid "Add your event"
+msgstr "Tambah acara anda"
+
+#: content/install.md:0
+msgid "DIY Install Guide"
+msgstr "Panduan Pasang DIY"
+
+#: content/install.md:0
+msgid "DIY Install"
+msgstr "Pasang DIY"
+
+#: content/install.md:9
+msgid ""
+"We recommend getting in-person support for the best experience. However, if "
+"you feel you're technically versed enough to do it yourself, here's a "
+"general guide with the three main steps needed to install Linux."
+msgstr ""
+"Kami mengesyorkan mendapatkan sokongan secara bersemuka untuk pengalaman "
+"terbaik. Walau bagaimanapun, jika anda merasakan anda cukup mahir dari segi "
+"teknikal untuk melakukannya sendiri, berikut ialah panduan umum dengan tiga "
+"langkah utama yang diperlukan untuk memasang Linux."
+
+#: content/install.md:14
+msgid ""
+"Once you have picked a distribution, their website will have more detailed "
+"guides you can follow."
+msgstr ""
+"Setelah anda memilih satu distribusi, laman web mereka akan mempunyai "
+"panduan yang lebih terperinci untuk anda ikuti."
+
+#: content/install.md:19
+msgid ""
+"Before you start, make sure to back up any important data from the computer "
+"you're about to reinstall!"
+msgstr ""
+"Sebelum anda mula, pastikan anda membuat sandaran semua data penting "
+"daripada komputer yang akan anda pasang semula!"
+
+#: content/install.md:24
+msgid ""
+"**Download a new OS**{{< br >}} Download the operating system you want to "
+"install. Search for Linux distributions for beginners to get some "
+"suggestions."
+msgstr ""
+"**Muat turun OS baharu**{{< br >}} Muat turun sistem pengendalian yang anda "
+"ingin pasang. Cari distribusi Linux untuk pemula untuk mendapatkan beberapa "
+"cadangan."
+
+#: content/install.md:27
+msgid ""
+"**Flash to a USB key**{{< br >}} Flash the operating system to a USB stick "
+"using a standard tool, such as Rufus. This will overwrite all data on the "
+"USB stick, so make sure to back up the files you want to keep. {{< "
+"buttonLink href=\"https://rufus.ie/en/\" class=\"btn_small btn_mt\" "
+"target=\"_blank\" >}}Get Rufus{{< /buttonLink >}}"
+msgstr ""
+"**Flash ke pemacu USB**{{< br >}} Flash sistem pengendalian ke pemacu USB "
+"menggunakan alat standard, seperti Rufus. Ini akan menimpka semua data pada "
+"pemacu USB, jadi pastikan anda membuat sandaran fail yang ingin anda simpan. "
+"{{< buttonLink href=\"https://rufus.ie/en/\" class=\"btn_small btn_mt\" "
+"target=\"_blank\" >}}Dapatkan Rufus{{< /buttonLink >}}"
+
+#: content/install.md:32
+msgid ""
+"**Boot and install on your computer**{{< br >}} Boot your computer from your "
+"USB stick. You will need to know the correct keyboard combination "
+"beforehand. At this point you will overwrite all data on the computer, so "
+"have a back up of the files you want to keep. Follow the instructions, and "
+"voilÃ ! Welcome to your new, old computer!"
+msgstr ""
+"**Boot dan pasang pada komputer anda**{{< br >}} Boot komputer anda daripada "
+"pemacu USB. Anda perlu mengetahui kombinasi papan kekunci yang betul "
+"terlebih dahulu. Pada ketika ini anda akan menulis ganti semua data pada "
+"komputer, jadi pastikan anda membuat sandaran fail yang anda ingin simpan. "
+"Ikuti arahan, dan siap! Selamat datang ke komputer lama anda yang baharu!"
+
+#: content/places/_index.md:0
+msgid "Find Linux Support"
+msgstr "Cari Sokongan Linux"
+
+#: content/places/_index.md:0
+msgid "Places"
+msgstr "Tempat"
+
+#: content/places/_index.md:12
+msgid ""
+"Here is a list of repair cafes, independent shops, organizations, groups, "
+"and collectives where you can get help with Linux on a regular basis. Please "
+"note that the information here is submitted by the organizations themselves "
+"and is not evaluated by the campaign. Responsibility for a device is with "
+"the owner. For corrections or concerns, please [contact us](https://"
+"endof10.org/contribute/#which-communication-platforms-does-the-end-of-10-"
+"campaign-use)."
+msgstr ""
+"Berikut ialah senarai kafe pembaikan, kedai bebas, organisasi, kumpulan dan "
+"kolektif di mana anda boleh mendapatkan bantuan dengan Linux secara tetap. "
+"Sila ambil perhatian bahawa maklumat di sini diserahkan oleh organisasi "
+"sendiri dan tidak dinilai oleh kempen. Tanggungjawab untuk peranti terletak "
+"pada pemiliknya. Untuk pembetulan atau sebarang kebimbangan, sila [hubungi "
+"kami](https://endof10.org/contribute/#which-communication-platforms-does-the-"
+"end-of-10-campaign-use)."
+
+#: content/places/_index.md:22
+msgid "Add your repair collective or other place"
+msgstr "Tambah kolektif pembaikan anda atau tempat lain"
+
+#: content/press/2025-05-28-press-release/index.md:0
+msgid "The end (of Windows 10) is nigh!"
+msgstr "Penhujung (Windows 10) sudah hampir!"
+
+#: content/press/2025-05-28-press-release/index.md:6
+msgid ""
+"*Today we're launching \"End Of 10\" ([endof10.org](https://endof10.org/)) "
+"and bringing Linux to Windows 10 users!*"
+msgstr ""
+"*Hari ini kami melancarkan \"End Of 10\" ([endof10.org](https://"
+"endof10.org/)) dan membawa Linux kepada pengguna Windows 10!*"
+
+#: content/press/2025-05-28-press-release/index.md:8
+msgid ""
+"On 14 October 2025, Microsoft will end support for Windows 10. Microsoft "
+"will no longer provide updates for the system and this will turn an "
+"estimated 200 to 400 million laptops and computers worldwide into security "
+"risks and heavily polluting e-waste."
+msgstr ""
+"Pada 14 Oktober 2025, Microsoft akan menamatkan sokongan untuk Windows 10. "
+"Microsoft tidak akan lagi menyediakan kemas kini untuk sistem tersebut dan "
+"ini akan menjadikan dianggarkan 200 hingga 400 juta komputer riba dan "
+"komputer di seluruh dunia sebagai risiko keselamat serta sisa elektronik "
+"yang sangat mencermarkan."
+
+#: content/press/2025-05-28-press-release/index.md:10
+msgid "Yours may be one of them."
+msgstr "Komputer anda mungkin salah satunya."
+
+#: content/press/2025-05-28-press-release/index.md:12
+msgid "<!--more-->\n"
+msgstr "<!--lagi-->\n"
+
+#: content/press/2025-05-28-press-release/index.md:14
+msgid ""
+"But what if you could make your current computer fast and secure again so "
+"you can continue to use it? There is an alternative to Windows, one that is "
+"free, receives regular updates and works on nearly all devices, from most "
+"smartphones and routers, to supercomputers that predict the weather and "
+"robots on Mars."
+msgstr ""
+"Tetapi bagaimana jika anda boleh menjadikan komputer anda sekarang pantas "
+"dan selamat semula supaya anda boleh terus menggunakannya? Terdapat "
+"alternatif kepada Windows, iaitu sesuatu yang percuma, menerima kemas kini "
+"secara tetap dan berfungsi pada hampir semua peranti, daripada kebanyakan "
+"telefon pintar dan penghala, hinggalah superkomputer yang meramal cuaca dan "
+"robot di Marikh."
+
+#: content/press/2025-05-28-press-release/index.md:16
+msgid ""
+"Yes, it's Linux. Linux is extremely flexible and adaptable, and it can work "
+"for you too. Linux can run smoothly on your latest laptop and on a machine "
+"from 10-20 years ago."
+msgstr ""
+"Ya, ia adalah Linux. Linux sangat fleksibel dan mudah disesuaikan, dan ia "
+"juga boleh berfungsi untuk anda. Linux boleh berjalan lancar pada komputer "
+"riba terkini anda mahupun pada mesin berusia 10-20 tahun."
+
+#: content/press/2025-05-28-press-release/index.md:18
+msgid ""
+"The cheapest and most environmentally-friendly computer is the one you "
+"already own."
+msgstr ""
+"Komputer yang paling murah dan paling mesra alam ialah komputer yang anda "
+"sudah miliki."
+
+#: content/press/2025-05-28-press-release/index.md:20
+msgid ""
+"Installing a new operating system may sound difficult, but the community "
+"behind the \"End Of 10\" is here to help! In towns and cities around the "
+"globe, there are people and places ready to lend you a hand or even install "
+"Linux for you. Many more helper groups get added every day."
+msgstr ""
+"Memasang sistem pengendalian baharu mungkin kedengaran sukar, tetapi "
+"komuniti di sebalik \"End of 10\" sedia membantu! Di bandar dan kota di "
+"seluruh dunia, terdapat individu dan tempat yangbersedia menghulurkan "
+"bantuan atau malah memasang Linux untuk anda. Lebih banyak kumpulan pembantu "
+"ditambah setiap hari."
+
+#: content/press/2025-05-28-press-release/index.md:22
+msgid "Find help near you at our website:"
+msgstr "Dapatkan bantuan berhampiran anda di laman web kami:"
+
+#: content/press/2025-05-28-press-release/index.md:24
+msgid "https://endof10.org/"
+msgstr "https://endof10.org/"
+
+#: content/press/2025-05-28-press-release/index.md:26
+msgid "Why can't I just migrate my current machine to Windows 11?"
+msgstr ""
+"Mengapa saya tidak boleh hanya memindahkan mesin semasa saya ke Windows 11 "
+"sahaja?"
+
+#: content/press/2025-05-28-press-release/index.md:28
+msgid ""
+"Because there is a good chance it won't meet the system requirements for "
+"Windows 11. There are several reasons for this, but one of the most "
+"questionable is that many devices are being rejected for not having a modern "
+"security module. From a technical standpoint, thatâ€™s hard to justify."
+msgstr ""
+"Kerana terdapat kemungkinan besar ia tidak akan memenuhi keperluan sistem "
+"untuk Windows 11. Terdapat beberapa sebab untuk ini, tetapi salah satu yang "
+"paling dipersoalkan ialah banyak peranti ditolak kerana tidak mempunyai "
+"modul keselamatan moden. Dari sudut teknikal, ia adalah sukar untuk "
+"dibenarkan."
+
+#: content/press/2025-05-28-press-release/index.md:30
+msgid ""
+"Ironically, it just so happens that 14 October is also \"[International E-"
+"Waste Day](https://weee-forum.org/iewd-about/)\". Shortly after follows "
+"\"[International Repair Day](https://openrepair.org/international-repair-"
+"day/)\" on 18 October. You can't make these things up!"
+msgstr ""
+"Ironinya, kebetulan pada 14 Oktober juga ialah \"[Hari E-Sisa Antarabangsa]"
+"(https://weee-forum.org/iewd-about/)\". Selepas itu menyusul pula \"[Hari "
+"Pembaikan Antarabangsa](https://openrepair.org/international-repair-day/)\" "
+"pada 18 Oktober. Perkara seperti ini memang sukar untuk dipercayai!"
+
+#: content/press/2025-05-28-press-release/index.md:32
+msgid ""
+"But Microsoft really wants Windows 10 users to buy new hardware. In fact, "
+"the company has [pushed full-screen notifications](https://arstechnica.com/"
+"gadgets/2024/11/microsoft-pushes-full-screen-ads-for-copilot-pcs-on-"
+"windows-10-users/) onto users' screens encouraging them to do just that â€” "
+"even for computers that are able to upgrade to Windows 11. This means "
+"manufacturing and transporting hundreds of millions of new devices, and this "
+"is perhaps the biggest waste of all. Hardware production alone consumes "
+"copious amounts of energy and has a disproportionate carbon footprint, all "
+"of which is for absolutely nothing when a working device lands in the bin."
+msgstr ""
+"Tetapi Microsoft benar-benar mahu pengguna Windows 10 membeli perkakasan "
+"baharu. Malah, syarikat ini telah [menolak pemberitahuan skrin penuh]"
+"(https://arstechnica.com/gadgets/2024/11/microsoft-pushes-full-screen-ads-"
+"for-copilot-pcs-on-windows-10-users/) ke skrin pengguna untuk menggalakkan "
+"mereka membuat demikian â€” walaupun untuk komputer yang mampu menaik taraf "
+"ke Windows 11. Ini bermakna pembuatan dan pengangkutan ratusan juta peranti "
+"baru, dan ini mungkin pembaziran terbesar. Pengeluaran perkakasan sahaja "
+"menggunakan sejumlah besar tenaga dan mempunyai jejak karbon yang tidak "
+"seimbang, semuanya sia-sia apabila peranti yang masih berfungsi berakhir di "
+"tong sampah."
+
+#: content/press/2025-05-28-press-release/index.md:34
+msgid ""
+"On the other hand, when you choose Linux, you get everything you could ever "
+"want for daily use, and the same machine can be working for decades. Whether "
+"you need to work, run a company, stay connected, or relax, the software "
+"shipped with Linux is often beautiful, blazing fast, easy to use, and always "
+"under your control. Most concerns about Linux are now outdated or unfounded "
+"and your system will remain secure well beyond the end of Windows 10 date at "
+"no cost."
+msgstr ""
+"Sebaliknya, apabila anda memilih Linux, anda mendapat segala yang anda "
+"perlukan untuk kegunaan harian, dan mesin yang sama boleh berfungsi selama "
+"beberapa dekad.  Sama ada anda perlu bekerja, menjalankan syarikat, kekal "
+"berhubung, atau bersantai, perisian yang disertakan denfan Linux selalunya "
+"cantik, pantas, mudah digunakan, dan sentiasa di bawah kawalan anda. "
+"Kebanyakan kebimbangan tentang Linux kini sudah lapuk atau tidak berasas dan "
+"sistem anda akan kekal selamat selepas tarikh akhir Windows 10 tanpa "
+"sebarang kos."
+
+#: content/press/2025-05-28-press-release/index.md:36
+msgid "The End Of 10 campaign has identified 5 reasons to upgrade to Linux:"
+msgstr ""
+"Kempen End Of 10 telah mengenal pasti 5 sebab untuk menaik taraf ke Linux:"
+
+#: content/press/2025-05-28-press-release/index.md:57
+msgid ""
+"If you're a gamer, you might be wondering: Can I still play my games on "
+"Linux? Yes, you can, and it has never been easier! Thousands of popular AAA "
+"games now run seamlessly on Linux and, in many cases, performance is equal "
+"to or even better than on Windows, especially on older hardware."
+msgstr ""
+"Jika anda seorang pemain permainan, anda mungkin tertanya-tanya: Bolehkah "
+"saya masih bermain permainan saya di Linux? Ya, anda boleh, dan ia tidak "
+"pernah semudah ini! Ribuan permainan AAA popular kini berjalan lancar di "
+"Linux dan, dalam banyak kes, prestasinya sama baik atau lebih baik "
+"berbanding di Windows, terutamanya pada perkakasan yang lebih lama."
+
+#: content/press/2025-05-28-press-release/index.md:59
+msgid ""
+"There is a growing list of Free & Open Source Software and repair "
+"organizations supporting the campaign, including:"
+msgstr ""
+"Terdapat senarai yang semakin berkembang bagi Perisian Percuma & Sumber "
+"Terbuka serta organisasi pembaikan yang menyokong kempen ini, termasuk:"
+
+#: content/press/2025-05-28-press-release/index.md:61
+msgid "anstiftung"
+msgstr "anstiftung"
+
+#: content/press/2025-05-28-press-release/index.md:62
+msgid "Associazione LibreItalia"
+msgstr "Associazione LibreItalia"
+
+#: content/press/2025-05-28-press-release/index.md:63
+msgid "Computertruhe e.V."
+msgstr "Computertruhe e.V."
+
+#: content/press/2025-05-28-press-release/index.md:64
+msgid "Debian"
+msgstr "Debian"
+
+#: content/press/2025-05-28-press-release/index.md:65
+msgid "/e/ Foundation"
+msgstr "/e/ Foundation"
+
+#: content/press/2025-05-28-press-release/index.md:66
+msgid "EU OS"
+msgstr "EU OS"
+
+#: content/press/2025-05-28-press-release/index.md:67
+msgid "FOSS United Foundation"
+msgstr "FOSS United Foundation"
+
+#: content/press/2025-05-28-press-release/index.md:68
+msgid "Free Software Foundation Europe"
+msgstr "Free Software Foundation Europe"
+
+#: content/press/2025-05-28-press-release/index.md:69
+msgid "GNOME Foundation"
+msgstr "GNOME Foundation"
+
+#: content/press/2025-05-28-press-release/index.md:70
+msgid "iFixit"
+msgstr "iFixit"
+
+#: content/press/2025-05-28-press-release/index.md:71
+msgid "Italian Linux Society"
+msgstr "Italian Linux Society"
+
+#: content/press/2025-05-28-press-release/index.md:72
+msgid "KDE e.V."
+msgstr "KDE e.V."
+
+#: content/press/2025-05-28-press-release/index.md:73
+msgid "KDE EspaÃ±a"
+msgstr "KDE EspaÃ±a"
+
+#: content/press/2025-05-28-press-release/index.md:74
+msgid "Kubuntu Focus"
+msgstr "Kubuntu Focus"
+
+#: content/press/2025-05-28-press-release/index.md:75
+msgid "Nextcloud"
+msgstr "Nextcloud"
+
+#: content/press/2025-05-28-press-release/index.md:76
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: content/press/2025-05-28-press-release/index.md:77
+msgid "Open Source Initiative"
+msgstr "Open Source Initiative"
+
+#: content/press/2025-05-28-press-release/index.md:78
+msgid "Repair Cafe International"
+msgstr "Repair Cafe International"
+
+#: content/press/2025-05-28-press-release/index.md:79
+msgid "Right To Repair Europe"
+msgstr "Right To Repair Europe"
+
+#: content/press/2025-05-28-press-release/index.md:80
+msgid "Runder Tisch Reparatur"
+msgstr "Runder Tisch Reparatur"
+
+#: content/press/2025-05-28-press-release/index.md:81
+msgid "Software Freedom Conservancy"
+msgstr "Software Freedom Conservancy"
+
+#: content/press/2025-05-28-press-release/index.md:82
+msgid "The Document Foundation"
+msgstr "The Document Foundation"
+
+#: content/press/2025-05-28-press-release/index.md:83
+msgid "Zorin OS"
+msgstr "Zorin OS"
+
+#: content/press/2025-05-28-press-release/index.md:85
+msgid ""
+"The End Of 10 campaign started in November 2024 at the South Tyrol Free "
+"Software Conference and has been attracting many new contributors since. "
+"This campaign is made possible by the enthusiastic contributions of a "
+"dedicated team. Learn more about the team at:"
+msgstr ""
+"Kempen End Of 10 bermula pada November 2024 di Persidangan Perisian Percuma "
+"Tirol Selatan dan telah menarik ramai penyumbang baharu sejak itu. Kempen "
+"ini dimungkinkan oleh sumbangan bersemangat daripada pasukan yang "
+"berdedikasi. Ketahui lebih lanjut tentang pasukan di:"
+
+#: content/press/2025-05-28-press-release/index.md:87
+msgid "https://endof10.org/team/"
+msgstr "https://endof10.org/team/"
+
+#: content/press/2025-05-28-press-release/index.md:89
+msgid ""
+"And what if you already purchased a new computer with Windows pre-installed "
+"but want to install Linux on it instead? If you prefer using Linux or "
+"another OS, you still pay for Windows, even if you donâ€™t use it. Thatâ€™s "
+"unfair and often non-transparent. Refund4Freedom is an initiative from the "
+"Free Software Foundation Europe that defends consumers' right to choose "
+"their operating system and get refunds for unused pre-installed software â€” "
+"especially Microsoft Windows â€” on new computers. The Refund4Freedom "
+"campaign launches 29 May to help users get refunds for software they don't "
+"want. The initiative focuses first on the Italian market, but will be "
+"extended to other locations in the near future. Learn more here:"
+msgstr ""
+"Dan bagaimana jika anda sudah membeli komputer baharu dengan Windows "
+"dipasang tetapi ingin memasang Linux sebaliknya? Jika anda lebih suka "
+"menggunakan Linux atau OS lain, anda masih membayar untuk Windows, walaupun "
+"anda tidak menggunakannya. Itu tidak adil dan sering tidak telus. "
+"Refund4Freedom ialah inisiatif dari Free Software Foundation Europe yang "
+"mempertahankan hak pengguna untuk memilih sistem pengendalian mereka dan "
+"mendapatkan bayaran balik untuk perisian pra-pasang yang tidak digunakan â€” "
+"terutamanya Microsoft Windows â€” pada komputer baharu. Kempen "
+"Refund4Freedom dilancarkan para 29 Mei untuk membantu pengguna mendapatkan "
+"bayaran balik bagi perisian yang mereka tidak dimahukan. Inisiatif ini "
+"memberi tumpuan terlebih dahulu kepada pasaran Itali, tetapi akan "
+"diperluaskan ke lokasi lain tidak lama lagi. Ketahui lebih lanjut di sini:"
+
+#: content/press/2025-05-28-press-release/index.md:91
+msgid "https://refund4freedom.org/"
+msgstr "https://refund4freedom.org/"
+
+#: content/press/2025-05-28-press-release/index.md:93
+msgid ""
+"Want future hardware to allow you to install any software you want? It's "
+"your hardware, after all! Device Neutrality, an initiative also from the "
+"Free Software Foundation Europe, aims to enable end-users to bypass "
+"gatekeepers to have a non-discriminatory use of software, including Free & "
+"Open Source Software, on their devices. Learn more here:"
+msgstr ""
+"Mahu perkakasan masa hadapan membenarkan anda memasang sebarang perisian "
+"yang ada mahukan? Lagipun, ia adalah perkakasan anda! Device Neutrality, "
+"satu inisiatif daripada Free Software Foundation Europe, bertujuan untuk "
+"membolehkan pengguna akhir memintas pengawal akses supaya dapat menggunakan "
+"perision tanpa diskriminasi, termasuk Perisian Percuma & Sumber Terubka, "
+"pada peranti mereka. Ketahui lebih lanjut di sini:"
+
+#: content/press/2025-05-28-press-release/index.md:95
+msgid "https://fsfe.org/activities/deviceneutrality/index"
+msgstr "https://fsfe.org/activities/deviceneutrality/index"
+
+#: content/press/_index.md:0
+msgid "Press"
+msgstr "Akhbar"
+
+#: content/press/_index.md:0
+msgid "Press releases about the End of 10 campaign"
+msgstr "Siaran akhbar tentang kempen End of 10"
+
+#: content/team.md:0
+msgid "Team behind End of 10"
+msgstr "Pasukan di sebalik End Of 10"
+
+#: content/team.md:0
+msgid "Team"
+msgstr "Pasukan"
+
+#: content/team.md:9
+msgid ""
+"This campaign has been made possible by the enthusiastic contributions of "
+"the following people (listed in alphabetical order by last name):"
+msgstr ""
+"Kempen ini telah dijayakan oleh sumbangan bersemangat daripada individu "
+"berikut (disenaraikan mengikut abjad mengikut nama keluarga):"
+
+#: content/team.md:11
+msgid "Ã˜jvind Fritjof Arnfred (Danish Translation)"
+msgstr "Ã˜jvind Fritjof Arnfred (Terjemahan Bahasa Denmark)"
+
+#: content/team.md:12
+msgid "Albert Astals Cid (Translation)"
+msgstr "Albert Astals Cid (Terjemahan)"
+
+#: content/team.md:13
+msgid "Tobias Bernard (GNOME Design Team)"
+msgstr "Tobias Bernard (Pasukan Reka Bentuk GNOME)"
+
+#: content/team.md:14
+msgid "Xavier Besnard (French Translation)"
+msgstr "Xavier Besnard (Terjemahan Bahasa Perancis)"
+
+#: content/team.md:15
+msgid "Joseph P. De Veaugh-Geiss (KDE Eco)"
+msgstr "Joseph P. De Veaugh-Geiss (KDE Eco)"
+
+#: content/team.md:16
+msgid "Tobias Diekershoff (Outreach Events)"
+msgstr "Tobias Diekershoff (Acara Outreach)"
+
+#: content/team.md:17
+msgid "Nico DÃ¼sing (Web Development)"
+msgstr "Nico DÃ¼sing (Pembangunan Web)"
+
+#: content/team.md:18
+msgid "Finnjan Hofmann (Places/Events)"
+msgstr "Finnjan Hofmann (Tempat/Acara)"
+
+#: content/team.md:19
+msgid "MatjaÅ¾ Jeran (Slovenian Translation)"
+msgstr "MatjaÅ¾ Jeran (Terjemahan Bahasa Slovenia)"
+
+#: content/team.md:20
+msgid "Jannick Kremer (German Translation)"
+msgstr "Jannick Kremer (Terjemahan Bahasa Jerman)"
+
+#: content/team.md:21
+msgid "Bettina Louis (Outreach, Events, Lifelong learning)"
+msgstr "Bettina Louis (Outreach, Acara, Pembelajaran sepanjang hayat)"
+
+#: content/team.md:22
+msgid "Harald Reingruber (Repair Cafe and FOSS Supporter)"
+msgstr "Harald Reingruber (Penyokong Kafe Pembaikan dan FOSS)"
+
+#: content/team.md:23
+msgid "Bernard Sadaka (Outreach)"
+msgstr "Bernard Sadaka (Outreach)"
+
+#: content/team.md:24
+msgid "Gernot Schiller (Campaign Support)"
+msgstr "Gernot Schiller (Sokongan Kempen)"
+
+#: content/team.md:25
+msgid "Carl Schwan (Web Development)"
+msgstr "Carl Schwan (Pembangunan Web)"
+
+#: content/team.md:26
+msgid "Carolina Silva Rode (Outreach Latin America)"
+msgstr "Carolina Silva Rode (Outreach Amerika Latin)"
+
+#: content/team.md:27
+msgid "Nicole Teale (KDE's Opt Green)"
+msgstr "Nicole Teale (Opt Green KDE)"
+
+#: content/team.md:28
+msgid "Geoffrey Teale (Website)"
+msgstr "Geoffrey Teale (Laman Web)"
+
+#: content/team.md:29
+msgid "Gerardo Zamudio (Outreach)"
+msgstr "Gerardo Zamudio (Outreach)"
+
+#: content/team.md:30
+msgid "KDE Translation Teams"
+msgstr "Pasukan Terjemahan KDE"
+
+#: content/team.md:31
+msgid "*and many more!*"
+msgstr "*dan ramai lagi!*"
+
+#: content/team.md:33
+msgid ""
+"Have you contributed to the project but your name is missing from this page? "
+"Contact the End Of 10 team, include a link to confirm your contributions, "
+"and we will update it as soon as we can!"
+msgstr ""
+"Adakah anda telah menyumbang kepada project ini tetapi nama anda tiada dalam "
+"halaman ini? Hubungi pasukan End Of 10, sertakan pautan untuk mengesahkan "
+"sumbangan anda, dan kami akan mengemaskininya secepat mungkin!"
+
+#: i18n/en.yaml:0
+msgid "Languages"
+msgstr "Bahasa"
+
+#: i18n/en.yaml:0
+msgid "Website"
+msgstr "Laman Web"
+
+#: i18n/en.yaml:0
+msgid "Telephone"
+msgstr "Telefon"
+
+#: i18n/en.yaml:0
+msgid "Email"
+msgstr "Emel"
+
+#: i18n/en.yaml:0
+msgid "costs"
+msgstr "kos"
+
+#: i18n/en.yaml:0
+msgid "offline"
+msgstr "luar talian"
+
+#: i18n/en.yaml:0
+msgid "online"
+msgstr "dalam talian"
+
+#: i18n/en.yaml:0
+msgid "online or offline"
+msgstr "dalam talian atau luar talian"
+
+#: i18n/en.yaml:0
+msgid "opening hours: "
+msgstr "waktu buka: "
+
+#: i18n/en.yaml:0
+msgid "The event starts at {{ . }}."
+msgstr "Acara bermula pada {{ . }}."
+
+#: i18n/en.yaml:0
+msgid "The event ends at {{ . }}."
+msgstr "Acara berakhir pada {{ . }}."
+
+#: i18n/en.yaml:0
+msgid "Load Map"
+msgstr "Muatkan Peta"
+
+#: i18n/en.yaml:0
+msgid "Hide Map"
+msgstr "Sembunyikan Peta"
+
+#: i18n/en.yaml:0
+msgid ""
+"This map is provided by OpenStreetMap, see the [Privacy Policy](https://"
+"osmfoundation.org/wiki/Privacy_Policy) of their server."
+msgstr ""
+"Peta ini disediakan oleh OpenStreetMap, lihat [Dasar Privasi](https://"
+"osmfoundation.org/wiki/Privacy_Policy) pelayan mereka."
+
+#: i18n/en.yaml:0
+msgid "End of 10 website content"
+msgstr "Kandungan laman web End of 10"
+
+#: i18n/en.yaml:0
+msgid "is licensed under"
+msgstr "dilesenkan di bawah"
+
+#: i18n/en.yaml:0
+msgid ""
+" Thanks to KDE for supporting the project by hosting the website and "
+"providing the infrastructure. You can contact the [KDE Webmasters]"
+"(mailto:kde-www@kde.org) (public mailing list) or see the [Privacy Policy]"
+"(https://kde.org/privacypolicy/) and [Legal Notices](https://kde.org/"
+"community/whatiskde/impressum/) for more information."
+msgstr ""
+"Terima kasih kepada KDE kerana menyokong projek ini dengan menghoskan laman "
+"web dan menyediakan infrastruktur. Anda boleh menghubungi [KDE Webmasters]"
+"(mailto:kde-www@kde.org) (senara mel awam) atau lihat [Dasar Privasi]"
+"(https://kde.org/privacypolicy/) dan [Notis Undang-undang](https://kde.org/"
+"community/whatiskde/impressum/) untuk maklumat lanjut."
+
+#: i18n/en.yaml:0
+msgid "Searchâ€¦"
+msgstr "Cariâ€¦"
+
+#: i18n/en.yaml:0
+msgid "Read more"
+msgstr "Baca selanjutnya"
+
+#: i18n/en.yaml:0
+msgid "Publication time"
+msgstr "Masa penerbitan"
+
+#: i18n/en.yaml:0
+msgid "FRESH NEW<br>SOFTWARE"
+msgstr "PERISIAN<br>BAHARU SEGAR"
+
+#: i18n/en.yaml:0
+msgid "YOUR OLD<br>COMPUTER"
+msgstr "KOMPUTER LAMA<br>ANDA"
