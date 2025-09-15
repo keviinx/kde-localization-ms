@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-08-21 00:40+0000\n"
-"PO-Revision-Date: 2025-09-13 22:43+0200\n"
+"PO-Revision-Date: 2025-09-15 09:36+0200\n"
 "Last-Translator: Keviindran Ramachandran <keviinx@yahoo.com>\n"
 "Language-Team: Malay <kde-i18n-doc@kde.org>\n"
 "Language: ms\n"
@@ -195,7 +195,7 @@ msgid "&Support KDE"
 msgstr "&Sokong KDE"
 
 #: kabstractaboutdialog_p.cpp:47
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Version version-number"
 msgid "Version %1"
 msgstr "Versi %1"
@@ -206,7 +206,7 @@ msgid "License: %1"
 msgstr "Lesen: %1"
 
 #: kabstractaboutdialog_p.cpp:118
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info Platform name"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
@@ -331,11 +331,10 @@ msgstr ""
 "atau memerlukan bantuan, sila lawati %2.</br>"
 
 #: kabstractaboutdialog_p.cpp:324
-#, fuzzy, kde-format
-#| msgid "Please report bugs to %1.\n"
+#, kde-format
 msgctxt "Reference to email address"
 msgid "Please report bugs to %1.\n"
-msgstr "Sila lapor pepijat ke %1.\n"
+msgstr "Sila laporkan pepijat kepada %1.\n"
 
 #: kactionconflictdetector_p.h:37
 #, fuzzy, kde-format
@@ -414,9 +413,7 @@ msgid "OS:"
 msgstr "Sistem Pengendali:"
 
 #: kbugreport.cpp:135
-#, fuzzy, kde-format
-#| msgctxt "name of digit set with digit string, e.g. 'Arabic (0123456789)'"
-#| msgid "%1 (%2)"
+#, kde-format
 msgctxt ""
 "%1 is the operating system name, e.g. 'Windows 10', %2 is the CPU "
 "architecture, e.g. 'x86_64'"
@@ -424,18 +421,15 @@ msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
 #: kbugreport.cpp:142
-#, fuzzy, kde-format
-#| msgid "%1 %2, %3"
+#, kde-format
 msgctxt ""
 "%1 is the operating system name, e.g. 'Fedora Linux', %2 is the operating "
 "system version, e.g. '35', %3 is the CPU architecture, e.g. 'x86_64'"
 msgid "%1 %2 (%3)"
-msgstr "%1 %2, %3"
+msgstr "%1 %2 (%3)"
 
 #: kbugreport.cpp:148
-#, fuzzy, kde-format
-#| msgctxt "name of digit set with digit string, e.g. 'Arabic (0123456789)'"
-#| msgid "%1 (%2)"
+#, kde-format
 msgctxt ""
 "%1 is the operating system name, e.g. 'Fedora Linux', %2 is the CPU "
 "architecture, e.g. 'x86_64'"
@@ -733,10 +727,9 @@ msgstr ""
 "pilih yang lain.</qt>"
 
 #: kkeysequencewidget.cpp:274
-#, fuzzy, kde-format
-#| msgid "Shortcut '%1' in Application %2 for action %3\n"
+#, kde-format
 msgid "Shortcut '%1' in Application '%2' for action '%3'\n"
-msgstr "Pintasan '%1' dalam Aplikasi %2 untuk tindakan %3\n"
+msgstr "Pintasan '%1' dalam Aplikasi '%2' untuk tindakan '%3'\n"
 
 #: kkeysequencewidget.cpp:283
 #, kde-format
@@ -826,12 +819,10 @@ msgid "Add to Toolbar"
 msgstr "Tambah ke Bar Alatan"
 
 #: kmenumenuhandler_p.cpp:224
-#, fuzzy, kde-format
-#| msgctxt "@action:inmenu"
-#| msgid "Configure Shortcut..."
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure Shortcut…"
-msgstr "Tetapkan Pintasan..."
+msgstr "Tetapkan Pintasan…"
 
 #: kshortcuteditwidget.cpp:55
 #, kde-format
@@ -860,7 +851,7 @@ msgstr "Skema semasa:"
 #, kde-format
 msgctxt "@action:button"
 msgid "New…"
-msgstr ""
+msgstr "Baharu…"
 
 #: kshortcutschemeseditor.cpp:50
 #, kde-format
@@ -881,20 +872,16 @@ msgid "Save shortcuts to scheme"
 msgstr "Simpan pintasan ke skema"
 
 #: kshortcutschemeseditor.cpp:62
-#, fuzzy, kde-format
-#| msgctxt "@action:inmenu"
-#| msgid "Export Scheme..."
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Export Scheme…"
-msgstr "Eksport Skema..."
+msgstr "Eksport Skema…"
 
 #: kshortcutschemeseditor.cpp:66
-#, fuzzy, kde-format
-#| msgctxt "@action:inmenu"
-#| msgid "Import Scheme..."
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Import Scheme…"
-msgstr "Import Skema..."
+msgstr "Import Skema…"
 
 #: kshortcutschemeseditor.cpp:115
 #, kde-format
@@ -1283,9 +1270,7 @@ msgid "Toolbars Shown"
 msgstr "Bar Alatan Ditunjukkan"
 
 #: ktooltiphelper.cpp:214
-#, fuzzy, kde-format
-#| msgctxt "name of digit set with digit string, e.g. 'Arabic (0123456789)'"
-#| msgid "%1 (%2)"
+#, kde-format
 msgctxt ""
 "@info:tooltip %1 is the tooltip of an action, %2 is its keyboard shorcut"
 msgid "%1 (%2)"
@@ -1297,6 +1282,8 @@ msgctxt "@info:tooltip"
 msgid ""
 "<small><font color=\"%1\">Press <b>Shift</b> for more Info.</font></small>"
 msgstr ""
+"<small><font color=\"%1\">Tekan<b>Shift</b> untuk maklumat lanjut.</font></"
+"small>"
 
 #: ktooltiphelper.cpp:295
 #, kde-format
@@ -1304,6 +1291,8 @@ msgctxt "@info:tooltip keep short"
 msgid ""
 "%1<br/><small><font color=\"%2\">Press <b>Shift</b> for more.</font></small>"
 msgstr ""
+"%1<br/><small><font color=\"%2\">Tekan<b>Shift</b> untuk lebih.</font></"
+"small>"
 
 #: kundoactions.cpp:30
 #, kde-format
